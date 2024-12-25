@@ -1,0 +1,1 @@
+{"question": "What will be the output of running the following command?\n\ndocker rm $(docker ps -a -q)", "options": ["Remove all images", "Remove all stopped containers", "Remove all running containers", "Error"], "correct_option_id": 1, "explanation": "'docker rm $(docker ps -a -q)' removes all stopped containers."}

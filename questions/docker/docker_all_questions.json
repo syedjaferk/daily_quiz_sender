@@ -1,0 +1,65 @@
+{
+    "questions": [
+        {
+            "question": "What will be the output of running the following command?\n\ndocker ps -a",
+            "options": ["List all images", "List all containers (running and stopped)", "List all running containers", "List all stopped containers"],
+            "correct_option_id": 1,
+            "explanation": "'docker ps -a' lists all containers, both running and stopped."
+        },
+        {
+            "question": "What will be the output of running the following command?\n\ndocker --version",
+            "options": ["Error", "Show Docker version", "Show Docker configuration", "Show Docker containers"],
+            "correct_option_id": 1,
+            "explanation": "'docker --version' displays the installed Docker version."
+        },
+        {
+            "question": "What will be the output of the following command?\n\ndocker images",
+            "options": ["List all images", "None of the above", "List all containers", "Show Docker configuration"],
+            "correct_option_id": 0,
+            "explanation": "'docker images' lists all Docker images stored locally."
+        },
+        {
+            "question": "What will be the output of running the following command?\n\ndocker rm $(docker ps -a -q)",
+            "options": ["Remove all images", "Remove all stopped containers", "Remove all running containers", "Error"],
+            "correct_option_id": 1,
+            "explanation": "'docker rm $(docker ps -a -q)' removes all stopped containers."
+        },
+        {
+            "question": "What will be the output of the following command?\n\ndocker run hello-world",
+            "options": ["Lists all containers", "Removes hello-world image", "Runs the hello-world container", "Error"],
+            "correct_option_id": 2,
+            "explanation": "'docker run hello-world' runs the hello-world container and outputs a welcome message if successful."
+        },
+        {
+            "question": "What will be the output of running the following command?\n\ndocker build -t myapp .",
+            "options": ["Builds an image named 'myapp'", "Runs an image named 'myapp'", "None of the above", "Deletes an image named 'myapp'"],
+            "correct_option_id": 0,
+            "explanation": "'docker build -t myapp .' builds a Docker image with the tag 'myapp' from the Dockerfile in the current directory."
+        },
+        {
+            "question": "What will be the output of running the following command?\n\ndocker pull ubuntu",
+            "options": ["Pulls the Ubuntu Docker image", "Error", "Runs the Ubuntu Docker image", "Builds the Ubuntu Docker image"],
+            "correct_option_id": 0,
+            "explanation": "'docker pull ubuntu' downloads the latest Ubuntu image from Docker Hub."
+        },
+        {
+            "question": "What will be the output of running the following command?\n\ndocker stop $(docker ps -q)",
+            "options": ["Stops all running containers", "Error", "Restarts all containers", "Starts all stopped containers"],
+            "correct_option_id": 0,
+            "explanation": "'docker stop $(docker ps -q)' stops all currently running containers."
+        },
+        {
+            "question": "What will be the output of running the following command?\n\ndocker rmi $(docker images -q)",
+            "options": ["Removes all Docker images", "Error", "Removes all stopped containers", "Removes all Docker containers"],
+            "correct_option_id": 0,
+            "explanation": "'docker rmi $(docker images -q)' removes all images from the Docker environment."
+        },
+        {
+            "question": "What will be the output of running the following command?\n\ndocker logs container_id",
+            "options": ["Error", "Show Docker version", "Show Docker events", "Show the logs of a container"],
+            "correct_option_id": 3,
+            "explanation": "'docker logs container_id' shows the log output of the specified container."
+        }
+        
+    ]
+}

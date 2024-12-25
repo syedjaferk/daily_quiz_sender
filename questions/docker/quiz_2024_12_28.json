@@ -1,0 +1,1 @@
+{"question": "What will be the output of the following command?\n\ndocker run hello-world", "options": ["Lists all containers", "Removes hello-world image", "Runs the hello-world container", "Error"], "correct_option_id": 2, "explanation": "'docker run hello-world' runs the hello-world container and outputs a welcome message if successful."}

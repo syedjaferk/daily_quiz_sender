@@ -1,0 +1,1 @@
+{"question": "What will be the output of running the following command?\n\ndocker pull ubuntu", "options": ["Pulls the Ubuntu Docker image", "Error", "Runs the Ubuntu Docker image", "Builds the Ubuntu Docker image"], "correct_option_id": 0, "explanation": "'docker pull ubuntu' downloads the latest Ubuntu image from Docker Hub."}

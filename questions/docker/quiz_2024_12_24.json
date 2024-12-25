@@ -1,0 +1,1 @@
+{"question": "What will be the output of running the following command?\n\ndocker ps -a", "options": ["List all images", "List all containers (running and stopped)", "List all running containers", "List all stopped containers"], "correct_option_id": 1, "explanation": "'docker ps -a' lists all containers, both running and stopped."}

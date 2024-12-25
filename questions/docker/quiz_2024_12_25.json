@@ -1,0 +1,1 @@
+{"question": "What will be the output of running the following command?\n\ndocker --version", "options": ["Error", "Show Docker version", "Show Docker configuration", "Show Docker containers"], "correct_option_id": 1, "explanation": "'docker --version' displays the installed Docker version."}

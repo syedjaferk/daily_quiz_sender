@@ -1,0 +1,1 @@
+{"question": "What will be the output of running the following command?\n\ndocker logs container_id", "options": ["Error", "Show Docker version", "Show Docker events", "Show the logs of a container"], "correct_option_id": 3, "explanation": "'docker logs container_id' shows the log output of the specified container."}

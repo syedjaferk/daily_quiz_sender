@@ -1,0 +1,1 @@
+{"question": "What will be the output of the following command?\n\ndocker images", "options": ["List all images", "None of the above", "List all containers", "Show Docker configuration"], "correct_option_id": 0, "explanation": "'docker images' lists all Docker images stored locally."}

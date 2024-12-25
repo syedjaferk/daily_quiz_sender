@@ -1,0 +1,1 @@
+{"question": "What will be the output of running the following command?\n\ndocker stop $(docker ps -q)", "options": ["Stops all running containers", "Error", "Restarts all containers", "Starts all stopped containers"], "correct_option_id": 0, "explanation": "'docker stop $(docker ps -q)' stops all currently running containers."}
