@@ -1,0 +1,1 @@
+{"question": "Which command is used to safely shut down the system?", "options": ["poweroff", "halt", "shutdown", "reboot"], "correct_option_id": 2, "explanation": "The 'shutdown' command is used to safely power off the system."}

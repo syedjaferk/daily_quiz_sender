@@ -1,0 +1,1 @@
+{"question": "Which command prints a file\u2019s content in reverse order?", "options": ["tac", "rev", "tail -r", "less"], "correct_option_id": 0, "explanation": "The 'tac' command displays a file's contents in reverse order."}

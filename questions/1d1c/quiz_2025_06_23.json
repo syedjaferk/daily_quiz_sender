@@ -1,0 +1,1 @@
+{"question": "Which command displays network interface details?", "options": ["ifconfig", "netstat", "ip", "ping"], "correct_option_id": 0, "explanation": "The 'ifconfig' command displays network interface details."}

@@ -1,0 +1,1 @@
+{"question": "Which command is used to change file attributes in Linux?", "options": ["chmod", "lsattr", "chattr", "chown"], "correct_option_id": 2, "explanation": "The 'chattr' command modifies file attributes."}

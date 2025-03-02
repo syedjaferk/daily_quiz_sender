@@ -1,0 +1,1 @@
+{"question": "Which command is used to kill a process by name?", "options": ["killall", "kill", "ps", "shutdown"], "correct_option_id": 0, "explanation": "The 'killall' command terminates all processes matching a given name."}

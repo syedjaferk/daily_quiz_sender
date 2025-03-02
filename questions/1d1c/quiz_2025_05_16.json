@@ -1,0 +1,1 @@
+{"question": "Which command is used to change file permissions?", "options": ["chmod", "chgrp", "umask", "chown"], "correct_option_id": 0, "explanation": "The 'chmod' command is used to change file permissions."}

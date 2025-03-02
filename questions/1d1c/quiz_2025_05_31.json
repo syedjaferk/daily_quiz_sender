@@ -1,0 +1,1 @@
+{"question": "Which command is used to switch to another user account?", "options": ["passwd", "id", "su", "sudo"], "correct_option_id": 2, "explanation": "The 'su' command allows switching to another user account."}

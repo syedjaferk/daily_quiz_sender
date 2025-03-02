@@ -1,0 +1,1 @@
+{"question": "Which modern command replaces 'ifconfig' for managing network interfaces?", "options": ["ping", "ip", "netstat", "route"], "correct_option_id": 1, "explanation": "The 'ip' command is the modern replacement for 'ifconfig'."}

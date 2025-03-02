@@ -1,0 +1,1 @@
+{"question": "Which command is used to locate a file by name?", "options": ["search", "find", "whereis", "locate"], "correct_option_id": 3, "explanation": "The 'locate' command finds files by name quickly."}

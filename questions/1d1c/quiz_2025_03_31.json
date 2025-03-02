@@ -1,0 +1,1 @@
+{"question": "Which command is used to check disk space usage?", "options": ["df", "du", "lsblk", "fdisk"], "correct_option_id": 0, "explanation": "The 'df' command reports file system disk space usage."}

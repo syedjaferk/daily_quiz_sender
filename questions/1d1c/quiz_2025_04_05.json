@@ -1,0 +1,1 @@
+{"question": "Which command is used to format text in an optimal way?", "options": ["fmt", "cut", "tr", "awk"], "correct_option_id": 0, "explanation": "The 'fmt' command reformats paragraphs to a specified width."}

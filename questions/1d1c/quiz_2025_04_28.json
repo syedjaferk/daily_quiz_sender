@@ -1,0 +1,1 @@
+{"question": "Which command resumes a background job?", "options": ["fg", "jobs", "bg", "ps"], "correct_option_id": 2, "explanation": "The 'bg' command resumes a job in the background."}

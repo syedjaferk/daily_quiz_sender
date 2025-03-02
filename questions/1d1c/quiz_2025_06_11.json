@@ -1,0 +1,1 @@
+{"question": "Which command is used to change the default login shell?", "options": ["su", "chsh", "passwd", "shellmod"], "correct_option_id": 1, "explanation": "The 'chsh' command allows users to change their login shell."}

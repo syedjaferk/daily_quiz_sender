@@ -1,0 +1,1 @@
+{"question": "Which command is used to find the binary, source, and manual page files of a command?", "options": ["find", "whereis", "which", "locate"], "correct_option_id": 1, "explanation": "The 'whereis' command locates the binary, source, and manual files of a command."}

@@ -1,0 +1,1 @@
+{"question": "Which command brings a background job to the foreground?", "options": ["fg", "bg", "jobs", "ps"], "correct_option_id": 0, "explanation": "The 'fg' command brings a background job to the foreground."}

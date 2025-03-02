@@ -1,0 +1,1 @@
+{"question": "Which command is used to create an empty file or update its timestamp?", "options": ["touch", "file", "echo", "cat"], "correct_option_id": 0, "explanation": "The 'touch' command creates an empty file or updates its timestamp."}

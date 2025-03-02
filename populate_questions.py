@@ -1,9 +1,9 @@
 import json
 from datetime import datetime, timedelta
 
-START_DATE = "2024-12-24"
+START_DATE = "2025-03-02"
 date_format = "%Y-%m-%d"
-category = "docker"
+category = "1d1c"
 DEST_PATH = f"questions/{category}/"
 ALL_QUESTIONS = f"questions/{category}/{category}_all_questions.json"
 

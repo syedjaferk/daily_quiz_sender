@@ -1,0 +1,1 @@
+{"question": "Which command is used to change the group ownership of a file?", "options": ["chmod", "usermod", "chgrp", "chown"], "correct_option_id": 2, "explanation": "The 'chgrp' command changes the group ownership of a file."}

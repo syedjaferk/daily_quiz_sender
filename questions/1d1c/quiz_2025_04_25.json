@@ -1,0 +1,1 @@
+{"question": "Which command is used to search for a pattern in a file?", "options": ["find", "locate", "grep", "awk"], "correct_option_id": 2, "explanation": "The 'grep' command searches for a pattern in a file."}

@@ -1,0 +1,1 @@
+{"question": "Which command provides a dynamic real-time view of system processes?", "options": ["top", "ps", "htop", "jobs"], "correct_option_id": 0, "explanation": "The 'top' command provides a dynamic real-time view of system processes."}

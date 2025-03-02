@@ -1,0 +1,1 @@
+{"question": "Which command is used to extract specific columns from a file?", "options": ["grep", "awk", "cut", "sed"], "correct_option_id": 2, "explanation": "The 'cut' command extracts sections from each line of a file."}

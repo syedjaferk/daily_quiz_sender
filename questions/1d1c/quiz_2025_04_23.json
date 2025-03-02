@@ -1,0 +1,1 @@
+{"question": "Which command is used to read from standard input and write to standard output and files?", "options": ["tee", "cat", "more", "less"], "correct_option_id": 0, "explanation": "The 'tee' command reads from standard input and writes to standard output and files."}

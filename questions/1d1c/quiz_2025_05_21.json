@@ -1,0 +1,1 @@
+{"question": "Which command is used to display a one-line description of a command?", "options": ["whatis", "apropos", "man", "info"], "correct_option_id": 0, "explanation": "The 'whatis' command provides a one-line description of a command."}

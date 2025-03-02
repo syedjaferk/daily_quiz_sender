@@ -1,0 +1,1 @@
+{"question": "What command is used to check how long the system has been running?", "options": ["who", "ps", "top", "uptime"], "correct_option_id": 3, "explanation": "The 'uptime' command shows how long the system has been running."}

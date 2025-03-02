@@ -1,0 +1,1 @@
+{"question": "Which command is used to find the process ID of a running program?", "options": ["pidof", "ps", "pgrep", "top"], "correct_option_id": 0, "explanation": "The 'pidof' command finds the PID of a running program."}

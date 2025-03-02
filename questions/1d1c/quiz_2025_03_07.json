@@ -1,0 +1,1 @@
+{"question": "Which option with 'ls' lists all files including hidden files?", "options": ["-l", "-a", "-h", "-s"], "correct_option_id": 1, "explanation": "The 'ls -a' command lists all files, including hidden ones."}

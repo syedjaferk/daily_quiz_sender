@@ -1,0 +1,1 @@
+{"question": "Which command is used to create a symbolic or hard link to a file?", "options": ["link", "cp", "ln", "symlink"], "correct_option_id": 2, "explanation": "The 'ln' command is used to create both hard and symbolic links."}

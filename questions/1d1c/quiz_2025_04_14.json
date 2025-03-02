@@ -1,0 +1,1 @@
+{"question": "Which command joins files horizontally by merging lines?", "options": ["paste", "join", "awk", "cut"], "correct_option_id": 0, "explanation": "The 'paste' command merges lines of multiple files horizontally."}

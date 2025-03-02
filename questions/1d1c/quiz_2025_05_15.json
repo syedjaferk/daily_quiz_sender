@@ -1,0 +1,1 @@
+{"question": "Which command displays file or file system status?", "options": ["df", "stat", "ls", "wc"], "correct_option_id": 1, "explanation": "The 'stat' command displays detailed file or file system status."}

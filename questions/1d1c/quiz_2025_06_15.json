@@ -1,0 +1,1 @@
+{"question": "Which command is used to manage system services in modern Linux distributions?", "options": ["systemctl", "service", "init", "sysctl"], "correct_option_id": 0, "explanation": "The 'systemctl' command manages systemd services."}

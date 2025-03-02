@@ -1,0 +1,1 @@
+{"question": "Which command is used to display the first few lines of a file?", "options": ["tail", "cat", "head", "less"], "correct_option_id": 2, "explanation": "The 'head' command displays the first few lines of a file."}

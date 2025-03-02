@@ -1,0 +1,736 @@
+{
+    "questions": [
+        {
+            "question": "What command is used to display the current date and time in Linux?",
+            "options": ["datetime", "time", "date", "clock"],
+            "correct_option_id": 2,
+            "explanation": "The 'date' command is used to display the current date and time in Linux."
+        },
+        {
+            "question": "How can you display the system date in GMT/UTC time zone?",
+            "options": ["date --utc", "date -g", "date -u", "date --gmt"],
+            "correct_option_id": 2,
+            "explanation": "The 'date -u' command displays the system date in GMT/UTC time zone."
+        },
+        {
+            "question": "What command is used to print a line of text in Linux?",
+            "options": ["output", "write", "print", "echo"],
+            "correct_option_id": 3,
+            "explanation": "The 'echo' command is used to print a line of text to the terminal."
+        },
+        {
+            "question": "Which command is used to concatenate and display file contents?",
+            "options": ["paste", "cat", "more", "less"],
+            "correct_option_id": 1,
+            "explanation": "The 'cat' command is used to concatenate files and print their content to the standard output."
+        },
+        {
+            "question": "What does the 'ls' command do?",
+            "options": ["List directory contents", "Change directory", "Move a file", "Create a directory"],
+            "correct_option_id": 0,
+            "explanation": "The 'ls' command is used to list files and directories."
+        },
+        {
+            "question": "Which option with 'ls' lists all files including hidden files?",
+            "options": ["-l", "-a", "-h", "-s"],
+            "correct_option_id": 1,
+            "explanation": "The 'ls -a' command lists all files, including hidden ones."
+        },
+        {
+            "question": "What command is used to remove files or directories?",
+            "options": ["rm", "erase", "rmdir", "delete"],
+            "correct_option_id": 0,
+            "explanation": "The 'rm' command is used to remove files or directories."
+        },
+        {
+            "question": "How do you remove a directory and its contents recursively?",
+            "options": ["rm -r", "rm -d", "rmdir", "rm -f"],
+            "correct_option_id": 0,
+            "explanation": "The 'rm -r' command removes a directory and its contents recursively."
+        },
+        {
+            "question": "Which command is used to copy files and directories?",
+            "options": ["mv", "duplicate", "copy", "cp"],
+            "correct_option_id": 3,
+            "explanation": "The 'cp' command is used to copy files and directories."
+        },
+        {
+            "question": "What does the 'mv' command do?",
+            "options": ["Delete files", "Move or rename files", "List files", "Copy files"],
+            "correct_option_id": 1,
+            "explanation": "The 'mv' command is used to move or rename files."
+        },
+        {
+            "question": "Which command displays the command history of the terminal session?",
+            "options": ["history", "commands", "terminal-log", "log"],
+            "correct_option_id": 0,
+            "explanation": "The 'history' command displays a list of previously executed commands."
+        },
+        {
+            "question": "What does the 'whoami' command do?",
+            "options": ["Prints the user's ID", "Prints the hostname", "Prints the system info", "Prints the current username"],
+            "correct_option_id": 3,
+            "explanation": "The 'whoami' command prints the currently logged-in user's name."
+        },
+        {
+            "question": "Which command is used to display the system hostname?",
+            "options": ["host", "hostname", "uname -n", "systemname"],
+            "correct_option_id": 1,
+            "explanation": "The 'hostname' command displays the system's hostname."
+        },
+        {
+            "question": "What is the purpose of the 'uname' command?",
+            "options": ["Modify system settings", "Display system information", "List users", "Change username"],
+            "correct_option_id": 1,
+            "explanation": "The 'uname' command prints system information such as OS name, kernel version, and more."
+        },
+        {
+            "question": "How can you display all system information using 'uname'?",
+            "options": ["uname -a", "uname -s", "uname -v", "uname -r"],
+            "correct_option_id": 0,
+            "explanation": "The 'uname -a' command displays all available system information."
+        },
+        {
+            "question": "What command is used to check how long the system has been running?",
+            "options": ["who", "ps", "top", "uptime"],
+            "correct_option_id": 3,
+            "explanation": "The 'uptime' command shows how long the system has been running."
+        },
+        {
+            "question": "How can you display the working directory path?",
+            "options": ["dir", "pwd", "ls", "cd"],
+            "correct_option_id": 1,
+            "explanation": "The 'pwd' command prints the current working directory."
+        },
+        {
+            "question": "Which command is used to create a new directory?",
+            "options": ["mkdir", "dir", "newdir", "md"],
+            "correct_option_id": 0,
+            "explanation": "The 'mkdir' command is used to create new directories."
+        },
+        {
+            "question": "What does the 'rmdir' command do?",
+            "options": ["Removes empty directories", "Removes all directories", "Recursively removes directories", "Removes files"],
+            "correct_option_id": 0,
+            "explanation": "The 'rmdir' command removes empty directories."
+        },
+        {
+            "question": "How do you change the current working directory?",
+            "options": ["cd", "dir", "chdir", "move"],
+            "correct_option_id": 0,
+            "explanation": "The 'cd' command is used to change directories."
+        },
+        {
+            "question": "Which command is used to locate a file by name?",
+            "options": ["search", "find", "whereis", "locate"],
+            "correct_option_id": 3,
+            "explanation": "The 'locate' command finds files by name quickly."
+        },
+        {
+            "question": "What is the purpose of the 'man' command?",
+            "options": ["Modify files", "List all commands", "Search files", "Display command manual pages"],
+            "correct_option_id": 3,
+            "explanation": "The 'man' command provides manual pages for Linux commands."
+        },
+        {
+            "question": "Which command displays the list of logged-in users?",
+            "options": ["logname", "w", "who", "users"],
+            "correct_option_id": 2,
+            "explanation": "The 'who' command shows who is logged into the system."
+        },
+        {
+            "question": "What does the 'wc' command do?",
+            "options": ["Lists files", "Counts words, lines, and characters in a file", "Displays disk usage", "Searches files"],
+            "correct_option_id": 1,
+            "explanation": "The 'wc' command counts lines, words, and characters in a file."
+        },
+        {
+            "question": "Which command is used to filter data between processes?",
+            "options": ["cut", "| (piping)", "awk", "grep"],
+            "correct_option_id": 1,
+            "explanation": "The '|' (pipe) command is used to send output of one command as input to another."
+        },
+        {
+            "question": "What is the default text editor in many Linux distributions?",
+            "options": ["vim", "nano", "gedit", "emacs"],
+            "correct_option_id": 0,
+            "explanation": "The 'vim' editor is a widely used text editor in Linux."
+        },
+        {
+            "question": "Which command is used to search for files in a directory hierarchy?",
+            "options": ["grep", "find", "locate", "whereis"],
+            "correct_option_id": 1,
+            "explanation": "The 'find' command is used to search for files in a directory hierarchy."
+        },
+        {
+            "question": "Which command is used to print environment variables?",
+            "options": ["set", "printenv", "export", "env"],
+            "correct_option_id": 3,
+            "explanation": "The 'env' command displays all environment variables."
+        },
+        {
+            "question": "How do you export a variable so it is available to child processes?",
+            "options": ["export", "set", "declare", "env"],
+            "correct_option_id": 0,
+            "explanation": "The 'export' command is used to pass variables to child processes."
+        },
+        {
+            "question": "Which command is used to check disk space usage?",
+            "options": ["df", "du", "lsblk", "fdisk"],
+            "correct_option_id": 0,
+            "explanation": "The 'df' command reports file system disk space usage."
+        },
+        {
+            "question": "Which command allows you to read a file one page at a time?",
+            "options": ["less", "cat", "more", "head"],
+            "correct_option_id": 0,
+            "explanation": "The 'less' command allows reading files one page at a time."
+        },
+        {
+            "question": "Which command is used to sort file contents?",
+            "options": ["uniq", "grep", "sort", "cut"],
+            "correct_option_id": 2,
+            "explanation": "The 'sort' command arranges file contents in a particular order."
+        },
+        {
+            "question": "How do you remove duplicate lines from a file?",
+            "options": ["uniq", "cut", "sort", "grep"],
+            "correct_option_id": 0,
+            "explanation": "The 'uniq' command filters out adjacent duplicate lines in a file."
+        },
+        {
+            "question": "Which command is used to extract specific columns from a file?",
+            "options": ["grep", "awk", "cut", "sed"],
+            "correct_option_id": 2,
+            "explanation": "The 'cut' command extracts sections from each line of a file."
+        },
+        {
+            "question": "Which command is used to format text in an optimal way?",
+            "options": ["fmt", "cut", "tr", "awk"],
+            "correct_option_id": 0,
+            "explanation": "The 'fmt' command reformats paragraphs to a specified width."
+        },
+        {
+            "question": "Which command is used to display the first few lines of a file?",
+            "options": ["tail", "cat", "head", "less"],
+            "correct_option_id": 2,
+            "explanation": "The 'head' command displays the first few lines of a file."
+        },
+        {
+            "question": "Which command is used to display the last few lines of a file?",
+            "options": ["tail", "less", "grep", "awk"],
+            "correct_option_id": 0,
+            "explanation": "The 'tail' command displays the last few lines of a file."
+        },
+        {
+            "question": "Which command is used to number lines in a file?",
+            "options": ["nl", "wc", "cat -n", "awk"],
+            "correct_option_id": 0,
+            "explanation": "The 'nl' command adds line numbers to the output."
+        },
+        {
+            "question": "Which command is used to split large files into smaller files?",
+            "options": ["cut", "tac", "split", "uniq"],
+            "correct_option_id": 2,
+            "explanation": "The 'split' command is used to divide a large file into smaller chunks."
+        },
+        {
+            "question": "Which command prints a file’s content in reverse order?",
+            "options": ["tac", "rev", "tail -r", "less"],
+            "correct_option_id": 0,
+            "explanation": "The 'tac' command displays a file's contents in reverse order."
+        },
+        {
+            "question": "Which command shows a listing of the last logged-in users?",
+            "options": ["last", "who", "w", "users"],
+            "correct_option_id": 0,
+            "explanation": "The 'last' command displays the login history of users."
+        },
+        {
+            "question": "Which command is used to translate or delete characters?",
+            "options": ["sed", "tr", "awk", "cut"],
+            "correct_option_id": 1,
+            "explanation": "The 'tr' command is used to translate, squeeze, or delete characters."
+        },
+        {
+            "question": "Which command is used for text replacement in a file?",
+            "options": ["sed", "awk", "tr", "cut"],
+            "correct_option_id": 0,
+            "explanation": "The 'sed' command is used for stream editing, including text replacement."
+        },
+        {
+            "question": "Which command joins files horizontally by merging lines?",
+            "options": ["paste", "join", "awk", "cut"],
+            "correct_option_id": 0,
+            "explanation": "The 'paste' command merges lines of multiple files horizontally."
+        },
+        {
+            "question": "Which command is used to join two files based on a common field?",
+            "options": ["merge", "join", "paste", "awk"],
+            "correct_option_id": 1,
+            "explanation": "The 'join' command combines lines of two files based on a common field."
+        },
+        {
+            "question": "Which command determines the file type?",
+            "options": ["file", "ls", "stat", "wc"],
+            "correct_option_id": 0,
+            "explanation": "The 'file' command determines the type of a given file."
+        },
+        {
+            "question": "Which command is used to create an empty file or update its timestamp?",
+            "options": ["touch", "file", "echo", "cat"],
+            "correct_option_id": 0,
+            "explanation": "The 'touch' command creates an empty file or updates its timestamp."
+        },
+        {
+            "question": "Which command is used to display a calendar?",
+            "options": ["date", "cal", "clock", "time"],
+            "correct_option_id": 1,
+            "explanation": "The 'cal' command displays a calendar."
+        },
+        {
+            "question": "Which command is used to reverse the characters of each line?",
+            "options": ["rev", "tac", "cut", "awk"],
+            "correct_option_id": 0,
+            "explanation": "The 'rev' command reverses the characters of each line in a file."
+        },
+        {
+            "question": "Which symbol is used for output redirection in Linux?",
+            "options": [">", ">>", "<", "|"],
+            "correct_option_id": 0,
+            "explanation": "The '>' symbol is used for output redirection in Linux."
+        },
+        {
+            "question": "Which symbol is used for input redirection in Linux?",
+            "options": ["<<", "<", ">", "|"],
+            "correct_option_id": 1,
+            "explanation": "The '<' symbol is used for input redirection in Linux."
+        },
+        {
+            "question": "Which symbol is used to append output to a file instead of overwriting?",
+            "options": [">>", "|", ">", "<"],
+            "correct_option_id": 0,
+            "explanation": "The '>>' symbol appends output to a file instead of overwriting."
+        },
+        {
+            "question": "Which command is used to read from standard input and write to standard output and files?",
+            "options": ["tee", "cat", "more", "less"],
+            "correct_option_id": 0,
+            "explanation": "The 'tee' command reads from standard input and writes to standard output and files."
+        },
+        {
+            "question": "Which command is used to execute commands from standard input?",
+            "options": ["xargs", "tee", "cat", "awk"],
+            "correct_option_id": 0,
+            "explanation": "The 'xargs' command is used to build and execute command lines from standard input."
+        },
+        {
+            "question": "Which command is used to search for a pattern in a file?",
+            "options": ["find", "locate", "grep", "awk"],
+            "correct_option_id": 2,
+            "explanation": "The 'grep' command searches for a pattern in a file."
+        },
+        {
+            "question": "Which command is used to list jobs running in the background?",
+            "options": ["fg", "jobs", "ps", "bg"],
+            "correct_option_id": 1,
+            "explanation": "The 'jobs' command lists jobs running in the background."
+        },
+        {
+            "question": "Which command brings a background job to the foreground?",
+            "options": ["fg", "bg", "jobs", "ps"],
+            "correct_option_id": 0,
+            "explanation": "The 'fg' command brings a background job to the foreground."
+        },
+        {
+            "question": "Which command resumes a background job?",
+            "options": ["fg", "jobs", "bg", "ps"],
+            "correct_option_id": 2,
+            "explanation": "The 'bg' command resumes a job in the background."
+        },
+        {
+            "question": "Which command is used to check the current runlevel of the system?",
+            "options": ["init", "who", "runlevel", "uptime"],
+            "correct_option_id": 2,
+            "explanation": "The 'runlevel' command prints the previous and current runlevel."
+        },
+        {
+            "question": "Which command initializes and controls processes in Linux?",
+            "options": ["runlevel", "init", "systemctl", "ps"],
+            "correct_option_id": 1,
+            "explanation": "The 'init' command initializes and controls processes."
+        },
+        {
+            "question": "Which command is used to display currently running processes?",
+            "options": ["ps", "top", "jobs", "bg"],
+            "correct_option_id": 0,
+            "explanation": "The 'ps' command displays a snapshot of currently running processes."
+        },
+        {
+            "question": "Which command displays processes in a tree format?",
+            "options": ["top", "ps", "pstree", "htop"],
+            "correct_option_id": 2,
+            "explanation": "The 'pstree' command displays processes in a hierarchical tree format."
+        },
+        {
+            "question": "Which command provides a dynamic real-time view of system processes?",
+            "options": ["top", "ps", "htop", "jobs"],
+            "correct_option_id": 0,
+            "explanation": "The 'top' command provides a dynamic real-time view of system processes."
+        },
+        {
+            "question": "Which interactive process viewer provides an enhanced user interface over 'top'?",
+            "options": ["ps", "htop", "top", "jobs"],
+            "correct_option_id": 1,
+            "explanation": "The 'htop' command provides an interactive process viewer with an enhanced user interface."
+        },
+        {
+            "question": "Which command is used to terminate a process by PID?",
+            "options": ["kill", "terminate", "ps", "shutdown"],
+            "correct_option_id": 0,
+            "explanation": "The 'kill' command is used to terminate a process by PID."
+        },
+        {
+            "question": "Which command is used to kill a process by name?",
+            "options": ["killall", "kill", "ps", "shutdown"],
+            "correct_option_id": 0,
+            "explanation": "The 'killall' command terminates all processes matching a given name."
+        },
+        {
+            "question": "Which command is used to find the process ID of a running program?",
+            "options": ["pidof", "ps", "pgrep", "top"],
+            "correct_option_id": 0,
+            "explanation": "The 'pidof' command finds the PID of a running program."
+        },
+        {
+            "question": "Which command is used to adjust the priority of a running process?",
+            "options": ["renice", "nice", "top", "htop"],
+            "correct_option_id": 0,
+            "explanation": "The 'renice' command changes the priority of a running process."
+        },
+        {
+            "question": "Which command is used to start a process with a modified scheduling priority?",
+            "options": ["nice", "renice", "ps", "jobs"],
+            "correct_option_id": 0,
+            "explanation": "The 'nice' command is used to start a process with a specified priority."
+        },
+        {
+            "question": "Which command is used to create a new user in Linux?",
+            "options": ["useradd", "adduser", "passwd", "usermod"],
+            "correct_option_id": 0,
+            "explanation": "The 'useradd' command is used to create a new user."
+        },
+        {
+            "question": "Which command is used to delete a user account?",
+            "options": ["userdel", "deluser", "passwd", "usermod"],
+            "correct_option_id": 0,
+            "explanation": "The 'userdel' command is used to delete a user account."
+        },
+        {
+            "question": "Which command is used to modify user accounts?",
+            "options": ["usermod", "passwd", "groupmod", "userdel"],
+            "correct_option_id": 0,
+            "explanation": "The 'usermod' command modifies user account settings."
+        },
+        {
+            "question": "Which command is used to create a symbolic or hard link to a file?",
+            "options": ["link", "cp", "ln", "symlink"],
+            "correct_option_id": 2,
+            "explanation": "The 'ln' command is used to create both hard and symbolic links."
+        },
+        {
+            "question": "Which command is used to remove a file link?",
+            "options": ["rm", "unlink", "delete", "rmdir"],
+            "correct_option_id": 1,
+            "explanation": "The 'unlink' command removes a file link."
+        },
+        {
+            "question": "Which command displays file or file system status?",
+            "options": ["df", "stat", "ls", "wc"],
+            "correct_option_id": 1,
+            "explanation": "The 'stat' command displays detailed file or file system status."
+        },
+        {
+            "question": "Which command is used to change file permissions?",
+            "options": ["chmod", "chgrp", "umask", "chown"],
+            "correct_option_id": 0,
+            "explanation": "The 'chmod' command is used to change file permissions."
+        },
+        {
+            "question": "Which command is used to change file ownership?",
+            "options": ["chmod", "usermod", "chown", "chgrp"],
+            "correct_option_id": 2,
+            "explanation": "The 'chown' command changes file ownership."
+        },
+        {
+            "question": "Which command is used to change the group ownership of a file?",
+            "options": ["chmod", "usermod", "chgrp", "chown"],
+            "correct_option_id": 2,
+            "explanation": "The 'chgrp' command changes the group ownership of a file."
+        },
+        {
+            "question": "Which command is used to set default permissions for newly created files?",
+            "options": ["chmod", "setfacl", "umask", "chown"],
+            "correct_option_id": 2,
+            "explanation": "The 'umask' command sets default permissions for new files."
+        },
+        {
+            "question": "Which command is used to manage group passwords?",
+            "options": ["passwd", "usermod", "gpasswd", "groupmod"],
+            "correct_option_id": 2,
+            "explanation": "The 'gpasswd' command is used to administer group passwords."
+        },
+        {
+            "question": "Which command is used to display a one-line description of a command?",
+            "options": ["whatis", "apropos", "man", "info"],
+            "correct_option_id": 0,
+            "explanation": "The 'whatis' command provides a one-line description of a command."
+        },
+        {
+            "question": "Which command displays who is logged in and what they are doing?",
+            "options": ["who", "users", "w", "whoami"],
+            "correct_option_id": 2,
+            "explanation": "The 'w' command displays users logged in and their activity."
+        },
+        {
+            "question": "Which command is used to locate an executable file?",
+            "options": ["find", "which", "whereis", "locate"],
+            "correct_option_id": 1,
+            "explanation": "The 'which' command finds the path of an executable."
+        },
+        {
+            "question": "Which command is used to find the binary, source, and manual page files of a command?",
+            "options": ["find", "whereis", "which", "locate"],
+            "correct_option_id": 1,
+            "explanation": "The 'whereis' command locates the binary, source, and manual files of a command."
+        },
+        {
+            "question": "Which command searches manual page names and descriptions?",
+            "options": ["man", "whatis", "apropos", "info"],
+            "correct_option_id": 2,
+            "explanation": "The 'apropos' command searches manual pages by keywords."
+        },
+        {
+            "question": "Which command is used to change file attributes in Linux?",
+            "options": ["chmod", "lsattr", "chattr", "chown"],
+            "correct_option_id": 2,
+            "explanation": "The 'chattr' command modifies file attributes."
+        },
+        {
+            "question": "Which command is used to list file attributes?",
+            "options": ["lsattr", "df", "stat", "ls"],
+            "correct_option_id": 0,
+            "explanation": "The 'lsattr' command lists file attributes."
+        },
+        {
+            "question": "Which command is used to compress files into a ZIP archive?",
+            "options": ["gzip", "zip", "tar", "bzip2"],
+            "correct_option_id": 1,
+            "explanation": "The 'zip' command is used to create ZIP archives."
+        },
+        {
+            "question": "Which command is used to extract ZIP archives?",
+            "options": ["bzip2", "tar", "gunzip", "unzip"],
+            "correct_option_id": 3,
+            "explanation": "The 'unzip' command extracts ZIP archives."
+        },
+        {
+            "question": "Which command allows a user to execute commands as another user?",
+            "options": ["id", "su", "sudo", "passwd"],
+            "correct_option_id": 2,
+            "explanation": "The 'sudo' command allows users to execute commands as another user, typically root."
+        },
+        {
+            "question": "Which command is used to switch to another user account?",
+            "options": ["passwd", "id", "su", "sudo"],
+            "correct_option_id": 2,
+            "explanation": "The 'su' command allows switching to another user account."
+        },
+        {
+            "question": "Which command is used to limit system resource usage for users?",
+            "options": ["limits.conf", "nice", "quota", "ulimit"],
+            "correct_option_id": 3,
+            "explanation": "The 'ulimit' command sets resource usage limits."
+        },
+        {
+            "question": "Which command enables or disables shell built-in commands?",
+            "options": ["unalias", "source", "enable", "alias"],
+            "correct_option_id": 2,
+            "explanation": "The 'enable' command is used to enable or disable shell built-ins."
+        },
+        {
+            "question": "Which command is used to determine the type of a command?",
+            "options": ["type", "whatis", "apropos", "which"],
+            "correct_option_id": 0,
+            "explanation": "The 'type' command identifies the type of a command."
+        },
+        {
+            "question": "Which command is used to safely shut down the system?",
+            "options": ["poweroff", "halt", "shutdown", "reboot"],
+            "correct_option_id": 2,
+            "explanation": "The 'shutdown' command is used to safely power off the system."
+        },
+        {
+            "question": "Which command is used to restart the system?",
+            "options": ["reboot", "shutdown", "halt", "poweroff"],
+            "correct_option_id": 0,
+            "explanation": "The 'reboot' command is used to restart the system."
+        },
+        {
+            "question": "Which command displays information about built-in shell commands?",
+            "options": ["man", "whatis", "help", "info"],
+            "correct_option_id": 2,
+            "explanation": "The 'help' command displays information about built-in shell commands."
+        },
+        {
+            "question": "Which command is used to schedule commands to run at a later time?",
+            "options": ["cron", "at", "schedule", "batch"],
+            "correct_option_id": 1,
+            "explanation": "The 'at' command is used to execute commands at a specified time."
+        },
+        {
+            "question": "Which command is used to queue, examine, or delete jobs scheduled with 'at'?",
+            "options": ["crontab", "atrm", "atq", "batch"],
+            "correct_option_id": 2,
+            "explanation": "The 'atq' command lists queued jobs scheduled with 'at'."
+        },
+        {
+            "question": "Which command is used to remove scheduled 'at' jobs?",
+            "options": ["atrm", "rm", "cronrm", "atq"],
+            "correct_option_id": 0,
+            "explanation": "The 'atrm' command removes jobs from the 'at' queue."
+        },
+        {
+            "question": "Which command adds a user without shell access?",
+            "options": ["nologin", "su", "usermod", "disable"],
+            "correct_option_id": 0,
+            "explanation": "The 'nologin' command prevents a user from accessing a shell."
+        },
+        {
+            "question": "Which command is used to change the default login shell?",
+            "options": ["su", "chsh", "passwd", "shellmod"],
+            "correct_option_id": 1,
+            "explanation": "The 'chsh' command allows users to change their login shell."
+        },
+        {
+            "question": "Which command is used to schedule recurring tasks?",
+            "options": ["cron", "scheduler", "crontab", "at"],
+            "correct_option_id": 2,
+            "explanation": "The 'crontab' command is used to schedule recurring tasks."
+        },
+        {
+            "question": "Which command is used to download files from the internet?",
+            "options": ["wget", "curl", "scp", "rsync"],
+            "correct_option_id": 0,
+            "explanation": "The 'wget' command downloads files from the internet."
+        },
+        {
+            "question": "Which command is used to check disk usage of files and directories?",
+            "options": ["df", "du", "ls", "free"],
+            "correct_option_id": 1,
+            "explanation": "The 'du' command estimates file space usage."
+        },
+        {
+            "question": "Which command is used to manage system services in modern Linux distributions?",
+            "options": ["systemctl", "service", "init", "sysctl"],
+            "correct_option_id": 0,
+            "explanation": "The 'systemctl' command manages systemd services."
+        },
+        {
+            "question": "Which command is used to archive files?",
+            "options": ["tar", "zip", "gzip", "bzip2"],
+            "correct_option_id": 0,
+            "explanation": "The 'tar' command is used to create and extract archives."
+        },
+        {
+            "question": "Which command is used to install software packages in Debian-based systems?",
+            "options": ["yum", "pacman", "apt", "dnf"],
+            "correct_option_id": 2,
+            "explanation": "The 'apt' command is used to install packages in Debian-based distributions."
+        },
+        {
+            "question": "Which command is used to add a PPA repository in Ubuntu?",
+            "options": ["apt-add", "add-apt-repository", "ppa-install", "repo-add"],
+            "correct_option_id": 1,
+            "explanation": "The 'add-apt-repository' command adds a PPA repository in Ubuntu."
+        },
+        {
+            "question": "Which command is used to synchronize files between systems?",
+            "options": ["scp", "ftp", "rsync", "wget"],
+            "correct_option_id": 2,
+            "explanation": "The 'rsync' command efficiently synchronizes files between systems."
+        },
+        {
+            "question": "Which command securely copies files between systems?",
+            "options": ["rsync", "scp", "ftp", "curl"],
+            "correct_option_id": 1,
+            "explanation": "The 'scp' command securely copies files over SSH."
+        },
+        {
+            "question": "Which command is used to transfer data using different protocols like HTTP and FTP?",
+            "options": ["wget", "scp", "curl", "rsync"],
+            "correct_option_id": 2,
+            "explanation": "The 'curl' command transfers data using various protocols like HTTP, FTP, and more."
+        },
+        {
+            "question": "Which command displays system memory usage?",
+            "options": ["top", "df", "free", "vmstat"],
+            "correct_option_id": 2,
+            "explanation": "The 'free' command displays memory usage details."
+        },
+        {
+            "question": "Which command displays network interface details?",
+            "options": ["ifconfig", "netstat", "ip", "ping"],
+            "correct_option_id": 0,
+            "explanation": "The 'ifconfig' command displays network interface details."
+        },
+        {
+            "question": "Which modern command replaces 'ifconfig' for managing network interfaces?",
+            "options": ["ping", "ip", "netstat", "route"],
+            "correct_option_id": 1,
+            "explanation": "The 'ip' command is the modern replacement for 'ifconfig'."
+        },
+        {
+            "question": "Which command displays active network connections?",
+            "options": ["ip", "ping", "netstat", "route"],
+            "correct_option_id": 2,
+            "explanation": "The 'netstat' command displays active network connections."
+        },
+        {
+            "question": "Which command is used to test network connectivity?",
+            "options": ["ping", "netstat", "ip", "traceroute"],
+            "correct_option_id": 0,
+            "explanation": "The 'ping' command is used to test network connectivity."
+        },
+        {
+            "question": "Which command creates a shortcut or alias for another command?",
+            "options": ["source", "alias", "ln", "symlink"],
+            "correct_option_id": 1,
+            "explanation": "The 'alias' command creates a shortcut for another command."
+        },
+        {
+            "question": "Which command removes an alias from the shell?",
+            "options": ["unalias", "remove", "delete", "unset"],
+            "correct_option_id": 0,
+            "explanation": "The 'unalias' command removes an alias from the shell."
+        },
+        {
+            "question": "Which command runs a script or configuration file in the current shell environment?",
+            "options": ["run", "exec", "source", "bash"],
+            "correct_option_id": 2,
+            "explanation": "The 'source' command executes a script in the current shell environment."
+        },
+        {
+            "question": "Which command is used to execute a shell script?",
+            "options": ["sh", "exec", "run", "bash"],
+            "correct_option_id": 0,
+            "explanation": "The 'sh' command executes shell scripts."
+        },
+        {
+            "question": "Which command is used to remotely access another machine over SSH?",
+            "options": ["telnet", "ssh", "ftp", "scp"],
+            "correct_option_id": 1,
+            "explanation": "The 'ssh' command is used for secure remote access."
+        }
+    ]
+}

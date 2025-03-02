@@ -1,0 +1,1 @@
+{"question": "Which command is used to remove scheduled 'at' jobs?", "options": ["atrm", "rm", "cronrm", "atq"], "correct_option_id": 0, "explanation": "The 'atrm' command removes jobs from the 'at' queue."}

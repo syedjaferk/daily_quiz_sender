@@ -1,0 +1,1 @@
+{"question": "Which command displays who is logged in and what they are doing?", "options": ["who", "users", "w", "whoami"], "correct_option_id": 2, "explanation": "The 'w' command displays users logged in and their activity."}

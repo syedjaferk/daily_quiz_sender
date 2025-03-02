@@ -1,0 +1,1 @@
+{"question": "Which command is used to schedule recurring tasks?", "options": ["cron", "scheduler", "crontab", "at"], "correct_option_id": 2, "explanation": "The 'crontab' command is used to schedule recurring tasks."}

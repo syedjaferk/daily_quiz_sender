@@ -1,0 +1,1 @@
+{"question": "Which command initializes and controls processes in Linux?", "options": ["runlevel", "init", "systemctl", "ps"], "correct_option_id": 1, "explanation": "The 'init' command initializes and controls processes."}

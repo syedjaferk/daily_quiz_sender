@@ -1,0 +1,1 @@
+{"question": "Which command securely copies files between systems?", "options": ["rsync", "scp", "ftp", "curl"], "correct_option_id": 1, "explanation": "The 'scp' command securely copies files over SSH."}

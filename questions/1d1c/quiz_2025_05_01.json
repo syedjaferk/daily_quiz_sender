@@ -1,0 +1,1 @@
+{"question": "Which command is used to display currently running processes?", "options": ["ps", "top", "jobs", "bg"], "correct_option_id": 0, "explanation": "The 'ps' command displays a snapshot of currently running processes."}

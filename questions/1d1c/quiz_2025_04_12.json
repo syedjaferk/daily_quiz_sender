@@ -1,0 +1,1 @@
+{"question": "Which command is used to translate or delete characters?", "options": ["sed", "tr", "awk", "cut"], "correct_option_id": 1, "explanation": "The 'tr' command is used to translate, squeeze, or delete characters."}

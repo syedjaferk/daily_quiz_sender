@@ -1,0 +1,1 @@
+{"question": "Which symbol is used to append output to a file instead of overwriting?", "options": [">>", "|", ">", "<"], "correct_option_id": 0, "explanation": "The '>>' symbol appends output to a file instead of overwriting."}

@@ -1,0 +1,1 @@
+{"question": "Which command is used to concatenate and display file contents?", "options": ["paste", "cat", "more", "less"], "correct_option_id": 1, "explanation": "The 'cat' command is used to concatenate files and print their content to the standard output."}

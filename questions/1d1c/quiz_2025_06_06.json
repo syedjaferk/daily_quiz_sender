@@ -1,0 +1,1 @@
+{"question": "Which command displays information about built-in shell commands?", "options": ["man", "whatis", "help", "info"], "correct_option_id": 2, "explanation": "The 'help' command displays information about built-in shell commands."}

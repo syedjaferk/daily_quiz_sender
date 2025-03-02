@@ -1,0 +1,1 @@
+{"question": "Which command is used to check disk usage of files and directories?", "options": ["df", "du", "ls", "free"], "correct_option_id": 1, "explanation": "The 'du' command estimates file space usage."}

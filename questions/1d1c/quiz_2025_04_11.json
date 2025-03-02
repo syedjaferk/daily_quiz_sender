@@ -1,0 +1,1 @@
+{"question": "Which command shows a listing of the last logged-in users?", "options": ["last", "who", "w", "users"], "correct_option_id": 0, "explanation": "The 'last' command displays the login history of users."}

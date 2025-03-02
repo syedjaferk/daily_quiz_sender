@@ -1,0 +1,1 @@
+{"question": "How can you display the working directory path?", "options": ["dir", "pwd", "ls", "cd"], "correct_option_id": 1, "explanation": "The 'pwd' command prints the current working directory."}

@@ -1,0 +1,1 @@
+{"question": "Which command enables or disables shell built-in commands?", "options": ["unalias", "source", "enable", "alias"], "correct_option_id": 2, "explanation": "The 'enable' command is used to enable or disable shell built-ins."}

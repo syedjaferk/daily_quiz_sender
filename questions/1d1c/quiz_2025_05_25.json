@@ -1,0 +1,1 @@
+{"question": "Which command searches manual page names and descriptions?", "options": ["man", "whatis", "apropos", "info"], "correct_option_id": 2, "explanation": "The 'apropos' command searches manual pages by keywords."}

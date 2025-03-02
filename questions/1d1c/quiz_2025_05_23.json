@@ -1,0 +1,1 @@
+{"question": "Which command is used to locate an executable file?", "options": ["find", "which", "whereis", "locate"], "correct_option_id": 1, "explanation": "The 'which' command finds the path of an executable."}

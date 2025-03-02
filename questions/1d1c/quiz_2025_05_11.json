@@ -1,0 +1,1 @@
+{"question": "Which command is used to delete a user account?", "options": ["userdel", "deluser", "passwd", "usermod"], "correct_option_id": 0, "explanation": "The 'userdel' command is used to delete a user account."}

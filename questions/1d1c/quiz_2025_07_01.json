@@ -1,0 +1,1 @@
+{"question": "Which command is used to remotely access another machine over SSH?", "options": ["telnet", "ssh", "ftp", "scp"], "correct_option_id": 1, "explanation": "The 'ssh' command is used for secure remote access."}

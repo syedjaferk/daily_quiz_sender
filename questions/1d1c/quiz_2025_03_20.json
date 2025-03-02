@@ -1,0 +1,1 @@
+{"question": "What does the 'rmdir' command do?", "options": ["Removes empty directories", "Removes all directories", "Recursively removes directories", "Removes files"], "correct_option_id": 0, "explanation": "The 'rmdir' command removes empty directories."}

@@ -1,0 +1,1 @@
+{"question": "Which command is used to remove a file link?", "options": ["rm", "unlink", "delete", "rmdir"], "correct_option_id": 1, "explanation": "The 'unlink' command removes a file link."}

@@ -1,0 +1,1 @@
+{"question": "Which command displays active network connections?", "options": ["ip", "ping", "netstat", "route"], "correct_option_id": 2, "explanation": "The 'netstat' command displays active network connections."}

@@ -1,0 +1,1 @@
+{"question": "Which command runs a script or configuration file in the current shell environment?", "options": ["run", "exec", "source", "bash"], "correct_option_id": 2, "explanation": "The 'source' command executes a script in the current shell environment."}

@@ -1,0 +1,1 @@
+{"question": "What does the 'whoami' command do?", "options": ["Prints the user's ID", "Prints the hostname", "Prints the system info", "Prints the current username"], "correct_option_id": 3, "explanation": "The 'whoami' command prints the currently logged-in user's name."}

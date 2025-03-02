@@ -1,0 +1,1 @@
+{"question": "Which command allows a user to execute commands as another user?", "options": ["id", "su", "sudo", "passwd"], "correct_option_id": 2, "explanation": "The 'sudo' command allows users to execute commands as another user, typically root."}

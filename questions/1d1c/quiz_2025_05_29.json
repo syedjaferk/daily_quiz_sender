@@ -1,0 +1,1 @@
+{"question": "Which command is used to extract ZIP archives?", "options": ["bzip2", "tar", "gunzip", "unzip"], "correct_option_id": 3, "explanation": "The 'unzip' command extracts ZIP archives."}

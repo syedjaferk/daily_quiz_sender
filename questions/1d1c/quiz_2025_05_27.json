@@ -1,0 +1,1 @@
+{"question": "Which command is used to list file attributes?", "options": ["lsattr", "df", "stat", "ls"], "correct_option_id": 0, "explanation": "The 'lsattr' command lists file attributes."}

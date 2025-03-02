@@ -1,0 +1,1 @@
+{"question": "Which command is used to number lines in a file?", "options": ["nl", "wc", "cat -n", "awk"], "correct_option_id": 0, "explanation": "The 'nl' command adds line numbers to the output."}
