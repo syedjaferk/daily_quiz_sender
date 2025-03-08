@@ -45,7 +45,7 @@ message_val = {
     "message_thread_id": int(args.message_thread_id)
 }
 
-print(message_val)
+print(message_val, args.message_thread_id + "abc")
 
 # Send Poll
 sender = Sender(question=message_val, telegram_bot_url=args.telegram_url)
