@@ -8,7 +8,8 @@ class Sender:
         self._telegram_bot_url = telegram_bot_url
 
     def send_quiz(self):
-        requests.post(self._telegram_bot_url, json=self._question)
+        res = requests.post(self._telegram_bot_url, json=self._question)
+        return res
 
     def run(self):
         self.send_quiz()

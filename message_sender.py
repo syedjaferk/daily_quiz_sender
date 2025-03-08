@@ -49,4 +49,5 @@ print(message_val)
 
 # Send Poll
 sender = Sender(question=message_val, telegram_bot_url=args.telegram_url)
-sender.run()
+res = sender.run()
+print(res)
