@@ -12,4 +12,4 @@ class Sender:
         return res
 
     def run(self):
-        self.send_quiz()
+        return self.send_quiz()
