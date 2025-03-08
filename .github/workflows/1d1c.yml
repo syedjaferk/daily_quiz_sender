@@ -25,4 +25,4 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Run script with secrets0
-        run: python runner.py --telegram_url ${{ secrets.TELEGRAM_BOT_URL }} --chat_id ${{ secrets.CHAT_ID_SJIT }} --category docker
+        run: python runner.py --telegram_url ${{ secrets.TELEGRAM_BOT_URL }} --chat_id ${{ secrets.CHAT_ID_SJIT }} --category 1d1c
