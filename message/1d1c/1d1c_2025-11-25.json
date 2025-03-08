@@ -1,0 +1,6 @@
+{
+    "title": "halt",
+    "english_description": "Stops the system immediately.",
+    "tamil_description": "கணினியை உடனடியாக நிறுத்த (shutdown) உதவும்.",
+    "example": "$ sudo halt"
+}

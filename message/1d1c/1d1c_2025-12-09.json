@@ -1,0 +1,6 @@
+{
+    "title": "ifconfig",
+    "english_description": "Configures and displays network interfaces (deprecated, use ip command).",
+    "tamil_description": "நெட்வொர்க் இணைப்புகளை காண்பிக்க மற்றும் மாற்ற பயன்படும் (ip command-ஐ பதிலாக பயன்படுத்தலாம்).",
+    "example": "$ ifconfig eth0"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "alias",
+    "english_description": "Creates a shortcut for a command.",
+    "tamil_description": "ஒரு கட்டளைக்கு குறுக்கு வழி (shortcut) உருவாக்க பயன்படும்.",
+    "example": "$ alias ll='ls -l'"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "setfacl",
+    "english_description": "Sets file access control lists (ACLs).",
+    "tamil_description": "கோப்பு அணுகல் கட்டுப்பாட்டை (ACL) அமைக்க பயன்படும்.",
+    "example": "$ setfacl -m u:user:r file.txt"
+}

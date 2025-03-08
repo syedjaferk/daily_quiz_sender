@@ -1,0 +1,6 @@
+{
+    "title": "cp",
+    "english_description": "Copies files and directories.",
+    "tamil_description": "கோப்புகள் மற்றும் அடைவுகளை நகலெடுக்க பயன்படும்.",
+    "example": "$ cp file.txt /home/user/"
+}

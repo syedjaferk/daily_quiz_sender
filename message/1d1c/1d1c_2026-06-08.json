@@ -1,0 +1,6 @@
+{
+    "title": "poweroff",
+    "english_description": "Shuts down the system.",
+    "tamil_description": "கணினியை முழுமையாக அணைக்க பயன்படும்.",
+    "example": "$ sudo poweroff"
+}

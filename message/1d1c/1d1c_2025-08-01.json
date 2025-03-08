@@ -1,0 +1,6 @@
+{
+    "title": "aa-remove-unknown",
+    "english_description": "Removes unknown AppArmor profiles from the system.",
+    "tamil_description": "அறியப்படாத AppArmor வழிமுறைகளை கணினியில் இருந்து நீக்க பயன்படும்.",
+    "example": "$ sudo aa-remove-unknown"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "uptime",
+    "english_description": "Displays how long the system has been running.",
+    "tamil_description": "கணினி எவ்வளவு நேரமாக இயங்கிக்கொண்டிருக்கிறது என்பதை காட்ட பயன்படும்.",
+    "example": "$ uptime"
+}

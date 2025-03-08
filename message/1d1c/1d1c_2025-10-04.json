@@ -1,0 +1,6 @@
+{
+    "title": "e2fsck",
+    "english_description": "Checks and repairs an ext2/ext3/ext4 filesystem.",
+    "tamil_description": "ext2/ext3/ext4 கோப்பு அமைப்பை சரிபார்க்கவும், பழுதுபார்க்கவும் பயன்படும்.",
+    "example": "$ sudo e2fsck -f /dev/sda1"
+}

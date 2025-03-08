@@ -1,0 +1,6 @@
+{
+    "title": "sync",
+    "english_description": "Flushes file system buffers to disk.",
+    "tamil_description": "Disk-இல் உள்ள கோப்பு அமைப்பு (filesystem) இடைமுகப் பகுதியை எழுதுவதைக் (write) உறுதிப்படுத்த பயன்படும்.",
+    "example": "$ sync"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "mkswap",
+    "english_description": "Sets up a swap partition or file.",
+    "tamil_description": "Swap partition அல்லது swap கோப்பை உருவாக்க பயன்படும்.",
+    "example": "$ sudo mkswap /swapfile"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "chfn",
+    "english_description": "Changes user account information such as full name and phone number.",
+    "tamil_description": "பயனர் விவரங்களை (name, phone number) மாற்ற பயன்படும்.",
+    "example": "$ sudo chfn -f 'John Doe' username"
+}

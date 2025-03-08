@@ -1,0 +1,6 @@
+{
+    "title": "for",
+    "english_description": "Executes a command multiple times in a loop.",
+    "tamil_description": "ஒரு கட்டளையை பலமுறை இயக்க உதவும்.",
+    "example": "$ for i in {1..5}; do echo 'Hello'; done"
+}

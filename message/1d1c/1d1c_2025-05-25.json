@@ -1,0 +1,6 @@
+{
+    "title": "firewalld",
+    "english_description": "Manages firewall rules in Linux using firewalld.",
+    "tamil_description": "firewalld மூலம் Linux கணினியில் firewall விதிகளை நிர்வகிக்க பயன்படும்.",
+    "example": "$ sudo firewall-cmd --list-all"
+}

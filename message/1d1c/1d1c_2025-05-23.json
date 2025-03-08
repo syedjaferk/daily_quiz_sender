@@ -1,0 +1,6 @@
+{
+    "title": "route",
+    "english_description": "Displays or modifies the IP routing table.",
+    "tamil_description": "IP வழிச்செலுத்தல் (routing) அட்டவணையை காண்பிக்க அல்லது மாற்ற பயன்படும்.",
+    "example": "$ route -n"
+}

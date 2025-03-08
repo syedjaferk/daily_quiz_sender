@@ -1,0 +1,6 @@
+{
+    "title": "link",
+    "english_description": "Creates a hard link to a file.",
+    "tamil_description": "ஒரு கோப்பிற்கான hard link உருவாக்க பயன்படும்.",
+    "example": "$ link file1.txt file2.txt"
+}

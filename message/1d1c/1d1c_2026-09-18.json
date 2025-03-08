@@ -1,0 +1,6 @@
+{
+    "title": "ip",
+    "english_description": "Shows and manipulates network interfaces, routes, and addresses.",
+    "tamil_description": "நெட்வொர்க் இணைப்புகளை, வழிகள் (routes), மற்றும் முகவரிகளை (addresses) நிர்வகிக்க பயன்படும்.",
+    "example": "$ ip addr show"
+}

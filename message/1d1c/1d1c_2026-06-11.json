@@ -1,0 +1,6 @@
+{
+    "title": "pwd",
+    "english_description": "Prints the current working directory.",
+    "tamil_description": "தற்போதைய வேலை செய்கிற அடைவை (working directory) காண்பிக்க பயன்படும்.",
+    "example": "$ pwd"
+}

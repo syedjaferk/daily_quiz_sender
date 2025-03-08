@@ -1,0 +1,6 @@
+{
+    "title": "host",
+    "english_description": "Performs DNS lookups to resolve hostnames.",
+    "tamil_description": "DNS தேடலை (lookup) செய்யும் மற்றும் hostname-ஐ IP address-ஆக மாற்ற உதவும்.",
+    "example": "$ host example.com"
+}

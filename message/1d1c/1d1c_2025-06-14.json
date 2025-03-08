@@ -1,0 +1,6 @@
+{
+    "title": "fdisk",
+    "english_description": "Manipulates disk partition tables.",
+    "tamil_description": "Disk-இன் பகிர்வு அட்டவணைகளை (partition tables) நிர்வகிக்க பயன்படும்.",
+    "example": "$ sudo fdisk /dev/sda"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "zcat",
+    "english_description": "Displays the contents of compressed .gz files without extracting them.",
+    "tamil_description": "சுருக்கப்பட்ட .gz கோப்புகளை விரிவாக்காமல் உள்ளடக்கங்களை காண்பிக்க பயன்படும்.",
+    "example": "$ zcat file.gz"
+}

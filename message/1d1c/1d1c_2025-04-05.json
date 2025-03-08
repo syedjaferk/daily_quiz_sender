@@ -1,0 +1,6 @@
+{
+    "title": "tr",
+    "english_description": "Translates or deletes characters in a file.",
+    "tamil_description": "கோப்பில் உள்ள எழுத்துகளை மாற்ற அல்லது நீக்க பயன்படும்.",
+    "example": "$ echo 'hello' | tr 'a-z' 'A-Z'"
+}

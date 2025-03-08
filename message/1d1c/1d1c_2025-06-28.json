@@ -1,0 +1,6 @@
+{
+    "title": "groupadd",
+    "english_description": "Creates a new user group.",
+    "tamil_description": "புதிய பயனர் குழுவை (user group) உருவாக்க பயன்படும்.",
+    "example": "$ sudo groupadd mygroup"
+}

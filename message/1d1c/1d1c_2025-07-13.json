@@ -1,0 +1,6 @@
+{
+    "title": "addgroup",
+    "english_description": "addgroup is used to add a new group to the system.",
+    "tamil_description": "addgroup கட்டளையை பயன்படுத்தி புதிய குழுவை சேர்க்கலாம்.",
+    "example": "$ sudo addgroup admin"
+}

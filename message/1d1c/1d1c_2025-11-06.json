@@ -1,0 +1,6 @@
+{
+    "title": "fsck.ext4",
+    "english_description": "Performs a filesystem check specifically on ext4 partitions.",
+    "tamil_description": "ext4 கோப்பு அமைப்பின் பிழைகளை சரிபார்க்க பயன்படும்.",
+    "example": "$ sudo fsck.ext4 /dev/sda1"
+}

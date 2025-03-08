@@ -1,0 +1,6 @@
+{
+    "title": "nl",
+    "english_description": "Displays file contents with line numbers.",
+    "tamil_description": "கோப்பு உள்ளடக்கங்களை வரிசை எண்ணுடன் (line numbers) காண்பிக்க பயன்படும்.",
+    "example": "$ nl file.txt"
+}

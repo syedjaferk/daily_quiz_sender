@@ -1,0 +1,6 @@
+{
+    "title": "read",
+    "english_description": "Reads input from the user.",
+    "tamil_description": "பயனரிடமிருந்து உள்ளீடு பெற பயன்படும்.",
+    "example": "$ read name && echo \"Hello, $name\""
+}

@@ -1,0 +1,6 @@
+{
+    "title": "crontab",
+    "english_description": "Manages scheduled jobs for users.",
+    "tamil_description": "பயனர்களுக்கான நிரந்தர வேலைகளை நிர்வகிக்க பயன்படும்.",
+    "example": "$ crontab -e"
+}

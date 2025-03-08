@@ -1,0 +1,6 @@
+{
+    "title": "iconv",
+    "english_description": "Converts text file encoding from one format to another.",
+    "tamil_description": "உரை கோப்புகளின் எழுத்துரு குறியீட்டை (encoding) மாற்ற பயன்படும்.",
+    "example": "$ iconv -f UTF-8 -t ISO-8859-1 input.txt > output.txt"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "fallocate",
+    "english_description": "Preallocates space for a file to improve performance.",
+    "tamil_description": "கோப்பிற்கான இடத்தை முன்பே ஒதுக்கி சேமிப்பக செயல்திறனை அதிகரிக்க பயன்படும்.",
+    "example": "$ fallocate -l 1G file.img"
+}

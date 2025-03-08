@@ -1,0 +1,6 @@
+{
+    "title": "tune2fs",
+    "english_description": "Adjusts tunable parameters of ext filesystems.",
+    "tamil_description": "ext கோப்பு அமைப்புகளின் (ext filesystems) கட்டுப்படுத்தக்கூடிய அளவுருக்களை மாற்ற பயன்படும்.",
+    "example": "$ sudo tune2fs -l /dev/sda1"
+}

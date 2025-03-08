@@ -1,0 +1,6 @@
+{
+    "title": "mkfifo",
+    "english_description": "Creates a named pipe (FIFO).",
+    "tamil_description": "ஒரு பெயரிடப்பட்ட குழாய் (named pipe) உருவாக்க பயன்படும்.",
+    "example": "$ mkfifo mypipe"
+}

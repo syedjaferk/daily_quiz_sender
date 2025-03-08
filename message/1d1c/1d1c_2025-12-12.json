@@ -1,0 +1,6 @@
+{
+    "title": "iwconfig",
+    "english_description": "Configures wireless network interfaces.",
+    "tamil_description": "Wireless நெட்வொர்க் இணைப்புகளை நிர்வகிக்க பயன்படும்.",
+    "example": "$ iwconfig wlan0"
+}

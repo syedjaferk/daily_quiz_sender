@@ -1,0 +1,6 @@
+{
+    "title": "zforce",
+    "english_description": "Forces .gz extension on compressed files.",
+    "tamil_description": "சுருக்கப்பட்ட கோப்புகளுக்கு கட்டாயமாக .gz extension சேர்க்க பயன்படும்.",
+    "example": "$ zforce file"
+}

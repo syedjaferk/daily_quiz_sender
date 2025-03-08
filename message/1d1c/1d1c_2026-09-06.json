@@ -1,0 +1,6 @@
+{
+    "title": "lastlog",
+    "english_description": "Displays the most recent login of all users.",
+    "tamil_description": "அனைத்து பயனர்களின் சமீபத்திய உள்நுழைவு விவரங்களை காண்பிக்க பயன்படும்.",
+    "example": "$ lastlog"
+}

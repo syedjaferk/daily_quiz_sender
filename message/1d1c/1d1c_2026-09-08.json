@@ -1,0 +1,6 @@
+{
+    "title": "logrotate",
+    "english_description": "Rotates, compresses, and removes old log files.",
+    "tamil_description": "பழைய பதிவுகளை (log files) முறையாக நிர்வகிக்க பயன்படும்.",
+    "example": "$ sudo logrotate /etc/logrotate.conf"
+}

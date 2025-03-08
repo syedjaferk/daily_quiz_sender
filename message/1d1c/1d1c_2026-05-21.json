@@ -1,0 +1,6 @@
+{
+    "title": "lsof",
+    "english_description": "Lists open files and the processes using them.",
+    "tamil_description": "தற்போது திறந்திருக்கும் கோப்புகள் மற்றும் அவற்றை பயன்படுத்தும் செயல்களை (processes) காண்பிக்க பயன்படும்.",
+    "example": "$ lsof -i :80"
+}

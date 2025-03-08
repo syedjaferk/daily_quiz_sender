@@ -1,0 +1,6 @@
+{
+    "title": "fc",
+    "english_description": "Displays or edits previously executed commands.",
+    "tamil_description": "முந்தைய இயக்கப்பட்ட கட்டளைகளை திருத்த அல்லது காண்பிக்க பயன்படும்.",
+    "example": "$ fc -l"
+}

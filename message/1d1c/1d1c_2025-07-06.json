@@ -1,0 +1,6 @@
+{
+    "title": "apt",
+    "english_description": "apt is a command-line interface for package management in Debian-based systems.",
+    "tamil_description": "apt என்பது Debian அடிப்படையிலான கணினிகளில் பயன்பெறும் கட்டளை வரி இடைமுகம்.",
+    "example": "$ sudo apt install vim"
+}

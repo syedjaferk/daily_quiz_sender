@@ -1,0 +1,6 @@
+{
+    "title": "mount",
+    "english_description": "Mounts a filesystem or device.",
+    "tamil_description": "ஒரு கோப்பு அமைப்பை (filesystem) அல்லது சாதனத்தை (device) மவுண்ட் செய்ய பயன்படும்.",
+    "example": "$ sudo mount /dev/sdb1 /mnt"
+}

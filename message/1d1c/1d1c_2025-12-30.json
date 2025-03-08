@@ -1,0 +1,6 @@
+{
+    "title": "lsb_release",
+    "english_description": "Displays Linux Standard Base (LSB) distribution details.",
+    "tamil_description": "Linux distribution பற்றிய விவரங்களை காண்பிக்க பயன்படும்.",
+    "example": "$ lsb_release -a"
+}

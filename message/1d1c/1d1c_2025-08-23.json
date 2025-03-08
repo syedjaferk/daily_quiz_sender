@@ -1,0 +1,6 @@
+{
+    "title": "chmod (symbolic mode)",
+    "english_description": "Changes file permissions using symbolic notation.",
+    "tamil_description": "கோப்பு அனுமதிகளை (permissions) மாற்ற பயன்படும்.",
+    "example": "$ chmod u+x script.sh"
+}

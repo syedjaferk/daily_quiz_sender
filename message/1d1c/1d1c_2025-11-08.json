@@ -1,0 +1,6 @@
+{
+    "title": "funzip",
+    "english_description": "Extracts a single file from a .zip archive without using unzip.",
+    "tamil_description": "unzip கட்டளையைப் பயன்படுத்தாமல் ஒரு .zip கோப்பிலிருந்து ஒரு கோப்பை வெளியேற்ற உதவும்.",
+    "example": "$ funzip archive.zip > output.txt"
+}

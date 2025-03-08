@@ -1,0 +1,6 @@
+{
+    "title": "nice",
+    "english_description": "Runs a command with a specified priority level.",
+    "tamil_description": "ஒரு செயலுக்கான முன்னுரிமை (priority) அமைத்து இயக்க பயன்படும்.",
+    "example": "$ nice -n 10 command"
+}

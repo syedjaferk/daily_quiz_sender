@@ -1,0 +1,6 @@
+{
+    "title": "jobs",
+    "english_description": "Lists background and suspended jobs in the current shell session.",
+    "tamil_description": "இப்போதைய shell-இல் பின்னணி (background) மற்றும் நிறுத்தப்பட்ட (suspended) பணிகளை காண்பிக்க பயன்படும்.",
+    "example": "$ jobs"
+}

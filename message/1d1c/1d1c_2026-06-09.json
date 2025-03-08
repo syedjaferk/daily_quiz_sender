@@ -1,0 +1,6 @@
+{
+    "title": "printenv",
+    "english_description": "Displays environment variables.",
+    "tamil_description": "சுற்றுச்சூழல் மாறிகளை (environment variables) காண்பிக்க பயன்படும்.",
+    "example": "$ printenv PATH"
+}

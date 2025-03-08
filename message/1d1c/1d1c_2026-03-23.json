@@ -1,0 +1,6 @@
+{
+    "title": "w",
+    "english_description": "Displays information about logged-in users and system load.",
+    "tamil_description": "உள்நுழைந்துள்ள பயனர்கள் மற்றும் கணினியின் செயல்பாட்டு நிலையை காட்ட பயன்படும்.",
+    "example": "$ w"
+}

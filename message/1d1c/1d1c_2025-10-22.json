@@ -1,0 +1,6 @@
+{
+    "title": "fc-list",
+    "english_description": "Lists installed fonts on the system.",
+    "tamil_description": "கணினியில் நிறுவப்பட்ட எழுத்துருக்களை (fonts) காண்பிக்க பயன்படும்.",
+    "example": "$ fc-list"
+}

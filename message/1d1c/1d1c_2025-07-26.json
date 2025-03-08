@@ -1,0 +1,6 @@
+{
+    "title": "bzip2recover",
+    "english_description": "bzip2recover helps recover damaged bzip2-compressed files.",
+    "tamil_description": "bzip2recover கட்டளை சேதமடைந்த bzip2 கோப்புகளை மீட்டெடுக்க உதவுகிறது.",
+    "example": "$ bzip2recover corruptedfile.bz2"
+}

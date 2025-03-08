@@ -1,0 +1,6 @@
+{
+    "title": "cksum",
+    "english_description": "Calculates a checksum value for a file.",
+    "tamil_description": "ஒரு கோப்பின் checksum மதிப்பை கணக்கிட பயன்படும்.",
+    "example": "$ cksum file.txt"
+}

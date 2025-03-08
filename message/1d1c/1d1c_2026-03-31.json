@@ -1,0 +1,6 @@
+{
+    "title": "zip",
+    "english_description": "Compresses files into a .zip archive.",
+    "tamil_description": "கோப்புகளை .zip archive-ஆக சுருக்க பயன்படும்.",
+    "example": "$ zip archive.zip file1.txt file2.txt"
+}

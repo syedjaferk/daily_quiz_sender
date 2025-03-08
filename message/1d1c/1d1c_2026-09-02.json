@@ -1,0 +1,6 @@
+{
+    "title": "ausearch",
+    "english_description": "Searches audit logs based on given criteria.",
+    "tamil_description": "Audit பதிவுகளில் (logs) குறிப்பிட்ட அளவுருக்களை அடிப்படையாக கொண்டு தேட உதவும்.",
+    "example": "$ sudo ausearch -m avc"
+}

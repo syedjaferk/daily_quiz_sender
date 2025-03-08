@@ -1,0 +1,6 @@
+{
+    "title": "getfacl",
+    "english_description": "Displays file access control lists (ACLs).",
+    "tamil_description": "கோப்பு அணுகல் கட்டுப்பாடு பட்டியல்களை (ACL) காண்பிக்க பயன்படும்.",
+    "example": "$ getfacl file.txt"
+}

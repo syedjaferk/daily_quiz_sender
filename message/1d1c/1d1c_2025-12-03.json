@@ -1,0 +1,6 @@
+{
+    "title": "hostname",
+    "english_description": "Displays or sets the system’s hostname.",
+    "tamil_description": "கணினியின் hostname-ஐ காண்பிக்க அல்லது மாற்ற பயன்படும்.",
+    "example": "$ hostname"
+}

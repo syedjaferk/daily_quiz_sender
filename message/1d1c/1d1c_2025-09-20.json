@@ -1,0 +1,6 @@
+{
+    "title": "dmsetup",
+    "english_description": "Manages logical volume devices via the device mapper.",
+    "tamil_description": "Device Mapper வழியாக Logical Volume சாதனங்களை நிர்வகிக்க பயன்படும்.",
+    "example": "$ sudo dmsetup ls"
+}

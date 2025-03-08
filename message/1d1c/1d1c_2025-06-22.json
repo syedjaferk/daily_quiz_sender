@@ -1,0 +1,6 @@
+{
+    "title": "umask",
+    "english_description": "Sets default file permissions for new files.",
+    "tamil_description": "புதிய கோப்புகளுக்கான இயல்புநிலை அனுமதிகளை (permissions) அமைக்க பயன்படும்.",
+    "example": "$ umask 022"
+}

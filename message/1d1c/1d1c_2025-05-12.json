@@ -1,0 +1,6 @@
+{
+    "title": "loginctl",
+    "english_description": "Manages user sessions in systemd.",
+    "tamil_description": "systemd-இல் பயனர் அமர்வுகளை (sessions) நிர்வகிக்க பயன்படும்.",
+    "example": "$ loginctl list-sessions"
+}

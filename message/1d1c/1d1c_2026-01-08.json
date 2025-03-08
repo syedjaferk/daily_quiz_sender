@@ -1,0 +1,6 @@
+{
+    "title": "modinfo",
+    "english_description": "Displays information about a kernel module.",
+    "tamil_description": "ஒரு kernel module பற்றிய தகவலை காண்பிக்க பயன்படும்.",
+    "example": "$ modinfo vfat"
+}

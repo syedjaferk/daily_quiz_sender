@@ -1,0 +1,6 @@
+{
+    "title": "uniq",
+    "english_description": "Filters out duplicate lines from a file.",
+    "tamil_description": "ஒரு கோப்பிலிருந்து நகல் வரிகளை நீக்க பயன்படும்.",
+    "example": "$ uniq file.txt"
+}

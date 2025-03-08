@@ -1,0 +1,6 @@
+{
+    "title": "blkid",
+    "english_description": "blkid is used to display block device UUIDs and attributes.",
+    "tamil_description": "blkid கட்டளை ஒரு ஸ்டோரேஜ் சாதனத்தின் UUID மற்றும் பண்புகளை காண்பிக்கிறது.",
+    "example": "$ sudo blkid /dev/sda1"
+}

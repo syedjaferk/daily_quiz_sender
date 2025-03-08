@@ -1,0 +1,6 @@
+{
+    "title": "sudo",
+    "english_description": "Runs a command as the superuser.",
+    "tamil_description": "Root பயனராக கட்டளைகளை இயக்க பயன்படும்.",
+    "example": "$ sudo apt update"
+}

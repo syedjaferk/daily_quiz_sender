@@ -1,0 +1,6 @@
+{
+    "title": "zdiff",
+    "english_description": "Displays the differences between two compressed .gz files.",
+    "tamil_description": "இரண்டு .gz கோப்புகளின் வித்தியாசங்களை காண்பிக்க பயன்படும்.",
+    "example": "$ zdiff file1.gz file2.gz"
+}

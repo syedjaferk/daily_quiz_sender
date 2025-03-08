@@ -1,0 +1,6 @@
+{
+    "title": "nohup",
+    "english_description": "Runs a command immune to hangups, even after logging out.",
+    "tamil_description": "கணினியில் இருந்து வெளியேறினாலும் செயலை (process) தொடர விட பயன்படும்.",
+    "example": "$ nohup command &"
+}

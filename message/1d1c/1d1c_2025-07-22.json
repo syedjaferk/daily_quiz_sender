@@ -1,0 +1,6 @@
+{
+    "title": "bluetoothctl",
+    "english_description": "bluetoothctl is used to manage Bluetooth devices via command-line.",
+    "tamil_description": "bluetoothctl கட்டளை வழியாக Bluetooth சாதனங்களை கட்டுப்படுத்தலாம்.",
+    "example": "$ bluetoothctl scan on"
+}

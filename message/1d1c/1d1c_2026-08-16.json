@@ -1,0 +1,6 @@
+{
+    "title": "zcmp",
+    "english_description": "Compares two compressed .gz files.",
+    "tamil_description": "இரண்டு .gz கோப்புகளை ஒப்பிட பயன்படும்.",
+    "example": "$ zcmp file1.gz file2.gz"
+}

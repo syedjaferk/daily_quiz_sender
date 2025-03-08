@@ -1,0 +1,6 @@
+{
+    "title": "gunzip",
+    "english_description": "Decompresses gzip compressed files.",
+    "tamil_description": "gzip மூலம் சுருக்கப்பட்ட கோப்புகளை விரிவாக்க உதவும்.",
+    "example": "$ gunzip file.txt.gz"
+}

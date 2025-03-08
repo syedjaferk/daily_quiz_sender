@@ -1,0 +1,6 @@
+{
+    "title": "ss",
+    "english_description": "Displays detailed socket statistics.",
+    "tamil_description": "நெட்வொர்க் socket புள்ளிவிவரங்களை காண்பிக்க பயன்படும்.",
+    "example": "$ ss -tulnp"
+}

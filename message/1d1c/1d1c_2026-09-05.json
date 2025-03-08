@@ -1,0 +1,6 @@
+{
+    "title": "lslogins",
+    "english_description": "Displays information about user logins.",
+    "tamil_description": "பயனர் உள்நுழைவு (login) விவரங்களை காண்பிக்க பயன்படும்.",
+    "example": "$ lslogins"
+}

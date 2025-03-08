@@ -1,0 +1,6 @@
+{
+    "title": "sleep",
+    "english_description": "Pauses the execution of a command for a specified time.",
+    "tamil_description": "ஒரு குறிப்பிட்ட நேரத்திற்கு கட்டளையின் செயல்பாட்டை தாமதிக்க உதவும்.",
+    "example": "$ sleep 5"
+}

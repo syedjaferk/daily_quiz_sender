@@ -1,0 +1,6 @@
+{
+    "title": "blkid",
+    "english_description": "Displays UUID and filesystem type of block devices.",
+    "tamil_description": "Block devices-இன் UUID மற்றும் கோப்பு அமைப்பு வகையை (filesystem type) காண்பிக்க பயன்படும்.",
+    "example": "$ blkid /dev/sda1"
+}

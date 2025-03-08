@@ -1,0 +1,6 @@
+{
+    "title": "bzmore",
+    "english_description": "Views bzip2-compressed files page by page.",
+    "tamil_description": "bzip2-ல் சுருக்கப்பட்ட கோப்புகளை பக்கம் பக்கமாக காண்பிக்கும்.",
+    "example": "$ bzmore file.bz2"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "unset",
+    "english_description": "Removes a shell variable or function.",
+    "tamil_description": "ஒரு shell மாறியை (variable) அல்லது செயல்பாட்டை (function) நீக்க பயன்படும்.",
+    "example": "$ unset VAR_NAME"
+}

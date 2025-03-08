@@ -1,0 +1,6 @@
+{
+    "title": "eval",
+    "english_description": "Evaluates and executes a command string.",
+    "tamil_description": "ஒரு கட்டளையை எழுதி அதனை இயக்க பயன்படும்.",
+    "example": "$ eval 'ls -l'"
+}

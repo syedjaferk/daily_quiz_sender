@@ -1,0 +1,6 @@
+{
+    "title": "test",
+    "english_description": "Evaluates expressions and conditions in scripts.",
+    "tamil_description": "Scripts-இல் நிலைமைகளை (conditions) மதிப்பீடு செய்ய பயன்படும்.",
+    "example": "$ test -f file.txt && echo 'File exists'"
+}

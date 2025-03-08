@@ -1,0 +1,6 @@
+{
+    "title": "modprobe",
+    "english_description": "Adds or removes kernel modules.",
+    "tamil_description": "Kernel modules-ஐ ஏற்ற (load) அல்லது அகற்ற (remove) பயன்படும்.",
+    "example": "$ sudo modprobe snd-hda-intel"
+}

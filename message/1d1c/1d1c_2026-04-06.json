@@ -1,0 +1,6 @@
+{
+    "title": "unalias",
+    "english_description": "Removes an alias.",
+    "tamil_description": "ஒரு alias-ஐ நீக்க பயன்படும்.",
+    "example": "$ unalias ll"
+}

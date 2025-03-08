@@ -1,0 +1,6 @@
+{
+    "title": "hostnamectl",
+    "english_description": "Queries and changes the system hostname.",
+    "tamil_description": "கணினியின் hostname-ஐ காண்பிக்க மற்றும் மாற்ற பயன்படும்.",
+    "example": "$ hostnamectl set-hostname myserver"
+}

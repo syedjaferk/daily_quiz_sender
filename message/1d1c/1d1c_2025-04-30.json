@@ -1,0 +1,6 @@
+{
+    "title": "renice",
+    "english_description": "Changes the priority of a running process.",
+    "tamil_description": "ஒரு செயலின் முன்னுரிமையை (priority) மாற்ற பயன்படும்.",
+    "example": "$ sudo renice -10 1234"
+}

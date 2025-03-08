@@ -1,0 +1,6 @@
+{
+    "title": "aa-status",
+    "english_description": "Displays information about the current AppArmor policy.",
+    "tamil_description": "தற்போதைய AppArmor கொள்கையைப் பற்றிய தகவலைக் காட்டும்.",
+    "example": "$ sudo aa-status"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "ftp",
+    "english_description": "Transfers files using the File Transfer Protocol (FTP).",
+    "tamil_description": "FTP மூலம் கோப்புகளை அனுப்ப அல்லது பெற பயன்படும்.",
+    "example": "$ ftp ftp.example.com"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "findmnt",
+    "english_description": "Displays mounted filesystem information.",
+    "tamil_description": "மவுண்ட் செய்யப்பட்ட (mounted) கோப்பு அமைப்புகளின் விவரங்களை காண்பிக்க பயன்படும்.",
+    "example": "$ findmnt"
+}

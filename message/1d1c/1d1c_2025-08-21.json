@@ -1,0 +1,6 @@
+{
+    "title": "chgrp",
+    "english_description": "Changes the group ownership of a file or directory.",
+    "tamil_description": "ஒரு கோப்பு அல்லது அடைவை புதிய குழுவுக்கு மாற்ற பயன்படும்.",
+    "example": "$ sudo chgrp developers file.txt"
+}

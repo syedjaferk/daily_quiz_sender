@@ -1,0 +1,6 @@
+{
+    "title": "mkdir",
+    "english_description": "Creates a new directory.",
+    "tamil_description": "புதிய அடைவை (directory) உருவாக்க பயன்படும்.",
+    "example": "$ mkdir new_folder"
+}

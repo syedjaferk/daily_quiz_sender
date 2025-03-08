@@ -1,0 +1,6 @@
+{
+    "title": "apg",
+    "english_description": "apg is used to generate random passwords.",
+    "tamil_description": "apg கட்டளை தானியங்கிய கடவுச்சொற்களை உருவாக்க பயன்படுத்தப்படுகிறது.",
+    "example": "$ apg -n 2 -m 8 -x 10"
+}

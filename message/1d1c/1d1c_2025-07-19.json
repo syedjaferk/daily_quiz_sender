@@ -1,0 +1,6 @@
+{
+    "title": "badblocks",
+    "english_description": "badblocks is used to check for bad sectors on a storage device.",
+    "tamil_description": "badblocks கட்டளை சேமிப்பு சாதனத்தில் கெட்ட தொகுதிகள் உள்ளதா என சரிபார்க்க உதவுகிறது.",
+    "example": "$ sudo badblocks /dev/sda1"
+}

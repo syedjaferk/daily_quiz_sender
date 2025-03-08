@@ -1,0 +1,6 @@
+{
+    "title": "tar",
+    "english_description": "Archives files using the tar format.",
+    "tamil_description": "கோப்புகளை tar வடிவில் archive செய்ய பயன்படும்.",
+    "example": "$ tar -cvf archive.tar files/"
+}

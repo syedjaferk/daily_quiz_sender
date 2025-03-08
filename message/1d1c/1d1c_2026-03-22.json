@@ -1,0 +1,6 @@
+{
+    "title": "vmstat",
+    "english_description": "Displays system performance statistics.",
+    "tamil_description": "கணினியின் செயல்திறன் புள்ளிவிவரங்களை காண்பிக்க பயன்படும்.",
+    "example": "$ vmstat 5"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "dpkg-reconfigure",
+    "english_description": "Reconfigures an already installed package.",
+    "tamil_description": "ஏற்கனவே நிறுவிய தொகுப்புகளை மீளமைக்க பயன்படும்.",
+    "example": "$ sudo dpkg-reconfigure tzdata"
+}

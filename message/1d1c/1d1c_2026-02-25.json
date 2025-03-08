@@ -1,0 +1,6 @@
+{
+    "title": "tac",
+    "english_description": "Displays file contents in reverse order.",
+    "tamil_description": "ஒரு கோப்பின் உள்ளடக்கங்களை தலைகீழாக (reverse order) காட்ட பயன்படும்.",
+    "example": "$ tac file.txt"
+}

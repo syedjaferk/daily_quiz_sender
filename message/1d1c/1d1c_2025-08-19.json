@@ -1,0 +1,6 @@
+{
+    "title": "cal",
+    "english_description": "Displays a calendar on the terminal.",
+    "tamil_description": "நாள், மாத, வருடத்தின் காலண்டரை காண்பிக்க பயன்படும்.",
+    "example": "$ cal -y"
+}

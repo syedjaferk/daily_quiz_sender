@@ -1,0 +1,6 @@
+{
+    "title": "numfmt",
+    "english_description": "Formats numbers for human readability.",
+    "tamil_description": "எண்களை வாசிக்க எளிதாக மாற்ற பயன்படும்.",
+    "example": "$ numfmt --to=iec 1048576"
+}

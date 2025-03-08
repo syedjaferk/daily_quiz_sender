@@ -1,0 +1,6 @@
+{
+    "title": "ls",
+    "english_description": "Lists files and directories.",
+    "tamil_description": "அடைவை உள்ளடக்கிய கோப்புகளை மற்றும் அடைவுகளை காண்பிக்க பயன்படும்.",
+    "example": "$ ls -l"
+}

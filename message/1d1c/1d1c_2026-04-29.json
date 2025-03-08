@@ -1,0 +1,6 @@
+{
+    "title": "expr",
+    "english_description": "Evaluates expressions including arithmetic and string operations.",
+    "tamil_description": "கணித மற்றும் உரை செயல்பாடுகளுக்கு மதிப்பீடு செய்ய பயன்படும்.",
+    "example": "$ expr 5 + 10"
+}

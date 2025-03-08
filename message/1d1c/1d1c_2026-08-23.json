@@ -1,0 +1,6 @@
+{
+    "title": "zmore",
+    "english_description": "Views compressed .gz files page by page.",
+    "tamil_description": "சுருக்கப்பட்ட .gz கோப்புகளை more கட்டளையைப் பயன்படுத்தி பக்கம் பக்கமாக காண்பிக்க உதவும்.",
+    "example": "$ zmore file.gz"
+}

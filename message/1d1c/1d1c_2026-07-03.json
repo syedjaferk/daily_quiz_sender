@@ -1,0 +1,6 @@
+{
+    "title": "su",
+    "english_description": "Switches to another user account.",
+    "tamil_description": "மற்றொரு பயனர் கணக்கிற்கு மாற பயன்படும்.",
+    "example": "$ su - username"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "faillog",
+    "english_description": "Displays failed login attempts for users.",
+    "tamil_description": "பயனர்களின் தோல்வியுற்ற உள்நுழைவு முயற்சிகளை காண்பிக்கும்.",
+    "example": "$ faillog -u username"
+}

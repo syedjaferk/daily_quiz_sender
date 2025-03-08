@@ -1,0 +1,6 @@
+{
+    "title": "fgrep",
+    "english_description": "Searches for a fixed string in files without using regular expressions.",
+    "tamil_description": "கோப்புகளில் நிரந்தர சரங்களை (fixed string) தேட உதவும்.",
+    "example": "$ fgrep 'error' logfile.txt"
+}

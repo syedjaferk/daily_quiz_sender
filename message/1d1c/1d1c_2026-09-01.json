@@ -1,0 +1,6 @@
+{
+    "title": "auditctl",
+    "english_description": "Manages Linux Audit framework rules.",
+    "tamil_description": "Linux Audit அமைப்பில் விதிகளை நிர்வகிக்க பயன்படும்.",
+    "example": "$ sudo auditctl -w /etc/passwd -p wa -k password_changes"
+}

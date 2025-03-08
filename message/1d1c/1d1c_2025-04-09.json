@@ -1,0 +1,6 @@
+{
+    "title": "sed",
+    "english_description": "Stream editor for modifying text in files.",
+    "tamil_description": "கோப்பில் உள்ள உரையை மாற்ற பயன்படும்.",
+    "example": "$ sed 's/old/new/g' file.txt"
+}

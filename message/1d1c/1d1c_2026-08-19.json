@@ -1,0 +1,6 @@
+{
+    "title": "zfgrep",
+    "english_description": "Searches for fixed strings in .gz files.",
+    "tamil_description": ".gz கோப்புகளில் நிரந்தர வரிகளை தேட பயன்படும்.",
+    "example": "$ zfgrep 'error' logs.gz"
+}

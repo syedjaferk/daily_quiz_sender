@@ -1,0 +1,6 @@
+{
+    "title": "apt-cache",
+    "english_description": "apt-cache is used to query and display information about available packages in APT.",
+    "tamil_description": "apt-cache கட்டளையை பயன்படுத்தி APT-இல் உள்ள தொகுப்புகள் பற்றிய தகவலைப் பெறலாம்.",
+    "example": "$ apt-cache search apache2"
+}

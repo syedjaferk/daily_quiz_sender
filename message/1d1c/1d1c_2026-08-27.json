@@ -1,0 +1,6 @@
+{
+    "title": "setsebool",
+    "english_description": "Modifies SELinux boolean values.",
+    "tamil_description": "SELinux boolean மதிப்புகளை மாற்ற பயன்படும்.",
+    "example": "$ sudo setsebool -P httpd_can_network_connect 1"
+}

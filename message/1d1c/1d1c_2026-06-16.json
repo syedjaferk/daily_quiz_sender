@@ -1,0 +1,6 @@
+{
+    "title": "reset",
+    "english_description": "Resets the terminal.",
+    "tamil_description": "Terminal-ஐ மீட்டமைக்க பயன்படும்.",
+    "example": "$ reset"
+}

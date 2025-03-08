@@ -1,0 +1,6 @@
+{
+    "title": "factor",
+    "english_description": "Computes the prime factors of a number.",
+    "tamil_description": "ஒரு எண்ணின் பிரதான காரகங்களை (prime factors) கணக்கிட பயன்படும்.",
+    "example": "$ factor 100"
+}

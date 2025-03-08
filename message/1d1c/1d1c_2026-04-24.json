@@ -1,0 +1,6 @@
+{
+    "title": "wait",
+    "english_description": "Waits for background processes to finish.",
+    "tamil_description": "பின்னணி செயல்பாடுகள் முடியும் வரை காத்திருக்க பயன்படும்.",
+    "example": "$ wait $PID"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "firefox",
+    "english_description": "Launches the Firefox web browser.",
+    "tamil_description": "Firefox இணைய உலாவியை (web browser) திறக்க பயன்படும்.",
+    "example": "$ firefox"
+}

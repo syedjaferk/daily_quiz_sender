@@ -1,0 +1,6 @@
+{
+    "title": "rm",
+    "english_description": "Removes files or directories.",
+    "tamil_description": "கோப்புகள் அல்லது அடைவுகளை நீக்க பயன்படும்.",
+    "example": "$ rm -rf folder"
+}

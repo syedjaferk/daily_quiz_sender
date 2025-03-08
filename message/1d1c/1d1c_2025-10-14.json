@@ -1,0 +1,6 @@
+{
+    "title": "eject",
+    "english_description": "Ejects a removable media like CD/DVD or USB.",
+    "tamil_description": "CD/DVD அல்லது USB போன்ற வெளியேற்றக்கூடிய மீடியாவை வெளியேற்ற உதவும்.",
+    "example": "$ eject /dev/cdrom"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "disown",
+    "english_description": "Removes a background job from the job table.",
+    "tamil_description": "ஒரு பின்னணி பணியை job பட்டியலிலிருந்து நீக்க பயன்படும்.",
+    "example": "$ disown %1"
+}

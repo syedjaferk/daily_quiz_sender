@@ -1,0 +1,6 @@
+{
+    "title": "top",
+    "english_description": "Displays real-time system performance statistics.",
+    "tamil_description": "கணினியின் செயல்பாட்டு நிலையை நேரலை (real-time) பார்க்க உதவும்.",
+    "example": "$ top"
+}

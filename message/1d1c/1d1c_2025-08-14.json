@@ -1,0 +1,6 @@
+{
+    "title": "chacl",
+    "english_description": "Changes the access control list (ACL) of a file.",
+    "tamil_description": "ஒரு கோப்பின் அணுகல் கட்டுப்பாட்டை மாற்ற பயன்படும்.",
+    "example": "$ chacl u::rwx,g::r-x,o::r-- file"
+}

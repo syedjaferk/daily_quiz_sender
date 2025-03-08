@@ -1,0 +1,6 @@
+{
+    "title": "chattr",
+    "english_description": "Changes file attributes on a Linux filesystem.",
+    "tamil_description": "Linux கோப்பு அமைப்பில் கோப்பு பண்புகளை மாற்ற உதவுகிறது.",
+    "example": "$ sudo chattr +i important.txt"
+}

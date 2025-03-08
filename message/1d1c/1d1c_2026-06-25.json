@@ -1,0 +1,6 @@
+{
+    "title": "sha256sum",
+    "english_description": "Computes the SHA-256 checksum of a file.",
+    "tamil_description": "SHA-256 checksum-ஐ கணக்கிட பயன்படும்.",
+    "example": "$ sha256sum file.txt"
+}

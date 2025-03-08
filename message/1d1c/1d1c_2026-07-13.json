@@ -1,0 +1,6 @@
+{
+    "title": "time",
+    "english_description": "Measures the execution time of a command.",
+    "tamil_description": "ஒரு கட்டளையின் செயல்படுத்தும் நேரத்தைக் கணக்கிட பயன்படும்.",
+    "example": "$ time ls"
+}

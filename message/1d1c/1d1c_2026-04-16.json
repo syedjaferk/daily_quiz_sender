@@ -1,0 +1,6 @@
+{
+    "title": "set",
+    "english_description": "Modifies shell options and positional parameters.",
+    "tamil_description": "Shell-இன் அமைப்புகளை மாற்ற பயன்படும்.",
+    "example": "$ set -x"
+}

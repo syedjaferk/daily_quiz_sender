@@ -1,0 +1,6 @@
+{
+    "title": "bg",
+    "english_description": "Resumes a suspended job in the background.",
+    "tamil_description": "நிறுத்தப்பட்ட பணியை பின்னணியில் மீண்டும் இயக்க உதவும்.",
+    "example": "$ bg %1"
+}

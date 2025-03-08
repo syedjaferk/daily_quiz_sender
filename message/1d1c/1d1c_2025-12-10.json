@@ -1,0 +1,6 @@
+{
+    "title": "ip",
+    "english_description": "Manages and displays networking, routing, and interfaces.",
+    "tamil_description": "நெட்வொர்க் அமைப்புகளை பார்க்க மற்றும் நிர்வகிக்க பயன்படும்.",
+    "example": "$ ip addr show"
+}

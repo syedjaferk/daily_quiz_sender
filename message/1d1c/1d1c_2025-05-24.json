@@ -1,0 +1,6 @@
+{
+    "title": "iptables",
+    "english_description": "Configures firewall rules in Linux.",
+    "tamil_description": "Linux கணினியில் firewall விதிகளை அமைக்க பயன்படும்.",
+    "example": "$ sudo iptables -L"
+}

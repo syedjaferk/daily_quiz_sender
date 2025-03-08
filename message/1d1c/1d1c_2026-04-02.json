@@ -1,0 +1,6 @@
+{
+    "title": "zgrep",
+    "english_description": "Searches inside compressed .gz files using grep.",
+    "tamil_description": "சுருக்கப்பட்ட .gz கோப்புகளில் குறிப்பிட்ட வார்த்தைகளை தேட பயன்படும்.",
+    "example": "$ zgrep 'error' logs.gz"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "rsync",
+    "english_description": "Synchronizes files and directories between two locations.",
+    "tamil_description": "இரண்டு இடங்களுக்கு இடையில் கோப்புகளை ஒத்திசைக்க (sync) பயன்படும்.",
+    "example": "$ rsync -av source/ destination/"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "jobs",
+    "english_description": "Lists background jobs.",
+    "tamil_description": "பின்னணி செயல்பாடுகளை (background jobs) காண்பிக்க பயன்படும்.",
+    "example": "$ jobs"
+}

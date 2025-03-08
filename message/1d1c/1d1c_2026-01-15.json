@@ -1,0 +1,6 @@
+{
+    "title": "netstat",
+    "english_description": "Displays network connections and statistics.",
+    "tamil_description": "நெட்வொர்க் இணைப்புகள் மற்றும் புள்ளிவிவரங்களை காண்பிக்க பயன்படும்.",
+    "example": "$ netstat -tulnp"
+}

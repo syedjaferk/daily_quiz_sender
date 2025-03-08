@@ -1,0 +1,6 @@
+{
+    "title": "cd",
+    "english_description": "Changes the current directory in the terminal.",
+    "tamil_description": "தற்போதைய கோப்பகத்தை (directory) மாற்ற பயன்படும்.",
+    "example": "$ cd /home/user"
+}

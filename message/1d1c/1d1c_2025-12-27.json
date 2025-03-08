@@ -1,0 +1,6 @@
+{
+    "title": "lsmod",
+    "english_description": "Displays the status of loaded kernel modules.",
+    "tamil_description": "கணினியில் ஏற்றப்பட்டுள்ள kernel modules பற்றிய தகவலை காண்பிக்க பயன்படும்.",
+    "example": "$ lsmod"
+}

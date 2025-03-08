@@ -1,0 +1,6 @@
+{
+    "title": "gpg-zip",
+    "english_description": "Creates encrypted compressed archives.",
+    "tamil_description": "கோப்புகளை மறையாக்கப்பட்ட (encrypted) archive-ஆக உருவாக்க உதவும்.",
+    "example": "$ gpg-zip --encrypt --output secure.tar.gpg --gpg-args '-r user' myfiles/"
+}

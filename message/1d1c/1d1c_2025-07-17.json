@@ -1,0 +1,6 @@
+{
+    "title": "apropos",
+    "english_description": "apropos searches for command descriptions in the manual pages.",
+    "tamil_description": "apropos கட்டளை ஒரு குறிப்பிட்ட கட்டளையை அதன் விளக்கத்தோடு தேட உதவுகிறது.",
+    "example": "$ apropos useradd"
+}

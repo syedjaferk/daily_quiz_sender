@@ -1,0 +1,6 @@
+{
+    "title": "cracklib-check",
+    "english_description": "Checks the strength of passwords using CrackLib.",
+    "tamil_description": "கடவுச்சொற்களின் பலத்தை பரிசோதிக்க பயன்படும்.",
+    "example": "$ echo 'password123' | cracklib-check"
+}

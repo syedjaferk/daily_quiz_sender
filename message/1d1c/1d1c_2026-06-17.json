@@ -1,0 +1,6 @@
+{
+    "title": "rev",
+    "english_description": "Reverses the characters in each line of a file.",
+    "tamil_description": "ஒரு கோப்பின் உள்ளடக்கத்தின் வரிகளை தலைகீழாக மாற்ற பயன்படும்.",
+    "example": "$ echo 'hello' | rev"
+}

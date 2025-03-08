@@ -1,0 +1,6 @@
+{
+    "title": "nmcli",
+    "english_description": "Controls NetworkManager from the command line.",
+    "tamil_description": "கட்டளை வரியில் இருந்து NetworkManager-ஐ நிர்வகிக்க பயன்படும்.",
+    "example": "$ nmcli device status"
+}

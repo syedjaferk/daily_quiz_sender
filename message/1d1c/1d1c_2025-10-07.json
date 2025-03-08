@@ -1,0 +1,6 @@
+{
+    "title": "e4defrag",
+    "english_description": "Defragments an ext4 filesystem.",
+    "tamil_description": "ext4 கோப்பு அமைப்பை fragmented-ஆக இருந்தால் ஒழுங்கமைக்க பயன்படும்.",
+    "example": "$ sudo e4defrag /dev/sda1"
+}

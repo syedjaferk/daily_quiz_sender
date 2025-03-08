@@ -1,0 +1,6 @@
+{
+    "title": "join",
+    "english_description": "Joins two files on a common field.",
+    "tamil_description": "இரண்டு கோப்புகளை பொதுவான ஒரு புலத்தின் அடிப்படையில் இணைக்க பயன்படும்.",
+    "example": "$ join file1.txt file2.txt"
+}

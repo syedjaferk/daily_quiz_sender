@@ -1,0 +1,6 @@
+{
+    "title": "pkill",
+    "english_description": "Terminates processes by name.",
+    "tamil_description": "குறிப்பிட்ட பெயரில் இயங்கும் செயல்களை முடிக்க பயன்படும்.",
+    "example": "$ pkill firefox"
+}

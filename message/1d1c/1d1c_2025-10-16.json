@@ -1,0 +1,6 @@
+{
+    "title": "evince",
+    "english_description": "Opens a PDF or document viewer.",
+    "tamil_description": "PDF கோப்புகளை பார்க்க பயன்படும்.",
+    "example": "$ evince file.pdf"
+}

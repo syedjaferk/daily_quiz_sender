@@ -1,0 +1,6 @@
+{
+    "title": "fuser",
+    "english_description": "Identifies processes using a specified file or directory.",
+    "tamil_description": "ஒரு குறிப்பிட்ட கோப்பு அல்லது அடைவை பயன்படுத்தும் செயல்களை (processes) காண்பிக்க உதவும்.",
+    "example": "$ fuser -v /path/to/file"
+}

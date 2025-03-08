@@ -1,0 +1,6 @@
+{
+    "title": "fsck",
+    "english_description": "Checks and repairs a filesystem.",
+    "tamil_description": "கோப்பு அமைப்பின் (filesystem) பிழைகளை சரிசெய்ய பயன்படும்.",
+    "example": "$ sudo fsck /dev/sda1"
+}

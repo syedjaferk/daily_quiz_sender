@@ -1,0 +1,6 @@
+{
+    "title": "split",
+    "english_description": "Splits a file into multiple smaller files.",
+    "tamil_description": "ஒரு கோப்பை சிறிய கோப்புகளாக பிரிக்க பயன்படும்.",
+    "example": "$ split -b 10M largefile.bin"
+}

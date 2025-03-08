@@ -1,0 +1,6 @@
+{
+    "title": "groupmod",
+    "english_description": "Modifies an existing user group.",
+    "tamil_description": "ஏற்கனவே உள்ள பயனர் குழுவை மாற்ற பயன்படும்.",
+    "example": "$ sudo groupmod -n newgroup oldgroup"
+}

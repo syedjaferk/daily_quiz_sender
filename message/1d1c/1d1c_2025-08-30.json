@@ -1,0 +1,6 @@
+{
+    "title": "cmp",
+    "english_description": "Compares two files byte by byte.",
+    "tamil_description": "இரண்டு கோப்புகளை byte அடிப்படையில் ஒப்பிட பயன்படும்.",
+    "example": "$ cmp file1.txt file2.txt"
+}

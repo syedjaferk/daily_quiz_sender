@@ -1,0 +1,6 @@
+{
+    "title": "chsh",
+    "english_description": "Changes the login shell for a user.",
+    "tamil_description": "பயனரின் login shell-ஐ மாற்ற பயன்படும்.",
+    "example": "$ chsh -s /bin/zsh user"
+}

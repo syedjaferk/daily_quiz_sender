@@ -1,0 +1,6 @@
+{
+    "title": "reboot",
+    "english_description": "Restarts the system.",
+    "tamil_description": "கணினியை மீண்டும் துவக்க பயன்படும்.",
+    "example": "$ sudo reboot"
+}

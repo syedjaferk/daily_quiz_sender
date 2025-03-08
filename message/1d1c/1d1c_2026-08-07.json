@@ -1,0 +1,6 @@
+{
+    "title": "whereis",
+    "english_description": "Locates the binary, source, and manual page for a command.",
+    "tamil_description": "ஒரு கட்டளையின் binary, source, மற்றும் manual பக்கங்களை கண்டுபிடிக்க பயன்படும்.",
+    "example": "$ whereis python"
+}

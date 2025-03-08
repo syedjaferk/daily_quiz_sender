@@ -1,0 +1,6 @@
+{
+    "title": "do-release-upgrade",
+    "english_description": "Upgrades the system to a new release.",
+    "tamil_description": "கணினியை புதிய பதிப்புக்கு மேம்படுத்த பயன்படும்.",
+    "example": "$ sudo do-release-upgrade"
+}

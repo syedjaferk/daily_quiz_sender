@@ -1,0 +1,6 @@
+{
+    "title": "chmod",
+    "english_description": "Changes file or directory permissions.",
+    "tamil_description": "கோப்புகளின் அனுமதிகளை (permissions) மாற்ற பயன்படும்.",
+    "example": "$ chmod 755 script.sh"
+}

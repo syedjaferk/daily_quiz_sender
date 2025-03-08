@@ -1,0 +1,6 @@
+{
+    "title": "diff3",
+    "english_description": "Compares three files line by line.",
+    "tamil_description": "மூன்று கோப்புகளை வரி மட்டுமே ஒப்பிட்டு வித்தியாசங்களை காண்பிக்க பயன்படும்.",
+    "example": "$ diff3 file1.txt file2.txt file3.txt"
+}

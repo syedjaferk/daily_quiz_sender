@@ -1,0 +1,6 @@
+{
+    "title": "xargs",
+    "english_description": "Constructs command lines from input.",
+    "tamil_description": "உள்ளீட்டிலிருந்து கட்டளைகளை உருவாக்க பயன்படும்.",
+    "example": "$ find . -name '*.txt' | xargs rm"
+}

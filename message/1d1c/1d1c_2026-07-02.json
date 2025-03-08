@@ -1,0 +1,6 @@
+{
+    "title": "stty",
+    "english_description": "Displays or changes terminal line settings.",
+    "tamil_description": "Terminal வரி அமைப்புகளை காண்பிக்க அல்லது மாற்ற பயன்படும்.",
+    "example": "$ stty -a"
+}

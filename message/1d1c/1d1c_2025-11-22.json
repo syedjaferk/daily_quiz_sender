@@ -1,0 +1,6 @@
+{
+    "title": "gcc",
+    "english_description": "The GNU Compiler Collection for compiling C and C++ programs.",
+    "tamil_description": "C மற்றும் C++ நிரல்களை தொகுக்க (compile) பயன்படும்.",
+    "example": "$ gcc program.c -o program"
+}

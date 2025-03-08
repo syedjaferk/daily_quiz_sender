@@ -1,0 +1,6 @@
+{
+    "title": "brctl",
+    "english_description": "brctl is used to configure and manage network bridges.",
+    "tamil_description": "brctl கட்டளை நெட்வொர்க் பாலங்களை கட்டமைக்க பயன்படுகிறது.",
+    "example": "$ sudo brctl addbr mybridge"
+}

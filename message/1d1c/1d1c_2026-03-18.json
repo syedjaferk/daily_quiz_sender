@@ -1,0 +1,6 @@
+{
+    "title": "usermod",
+    "english_description": "Modifies an existing user account.",
+    "tamil_description": "ஏற்கனவே உள்ள பயனர் கணக்கை மாற்ற பயன்படும்.",
+    "example": "$ sudo usermod -aG sudo username"
+}

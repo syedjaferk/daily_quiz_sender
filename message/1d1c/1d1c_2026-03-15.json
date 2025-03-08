@@ -1,0 +1,6 @@
+{
+    "title": "unlink",
+    "english_description": "Deletes a file (like rm but for single files).",
+    "tamil_description": "ஒரு கோப்பை நீக்க பயன்படும்.",
+    "example": "$ unlink file.txt"
+}

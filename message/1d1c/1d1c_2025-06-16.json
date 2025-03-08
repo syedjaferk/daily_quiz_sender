@@ -1,0 +1,6 @@
+{
+    "title": "e2fsck",
+    "english_description": "Checks and repairs ext filesystems.",
+    "tamil_description": "ext கோப்பு அமைப்புகளை (ext filesystems) சரிசெய்ய பயன்படும்.",
+    "example": "$ sudo e2fsck -f /dev/sda1"
+}

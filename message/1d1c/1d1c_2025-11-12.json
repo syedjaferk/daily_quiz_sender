@@ -1,0 +1,6 @@
+{
+    "title": "gpasswd",
+    "english_description": "Administers the /etc/group file and manages group passwords.",
+    "tamil_description": "/etc/group கோப்பை நிர்வகிக்க மற்றும் குழு கடவுச்சொற்களை (group passwords) அமைக்க பயன்படும்.",
+    "example": "$ sudo gpasswd -a user groupname"
+}

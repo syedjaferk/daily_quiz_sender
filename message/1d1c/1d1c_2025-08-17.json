@@ -1,0 +1,6 @@
+{
+    "title": "check-language-support",
+    "english_description": "Returns missing packages for a complete language environment.",
+    "tamil_description": "மொழி ஆதரவை முழுமையாகப் பெற வேண்டிய தொகுப்புகளை காட்டும்.",
+    "example": "$ check-language-support --show-installed"
+}

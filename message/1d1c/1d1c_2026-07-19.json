@@ -1,0 +1,6 @@
+{
+    "title": "tsort",
+    "english_description": "Performs topological sorting on input data.",
+    "tamil_description": "உள்ளீட்டில் (input data) topological sorting செய்ய பயன்படும்.",
+    "example": "$ tsort input.txt"
+}

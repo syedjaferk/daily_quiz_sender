@@ -1,0 +1,6 @@
+{
+    "title": "groupmems",
+    "english_description": "Manages group membership for a user.",
+    "tamil_description": "பயனர் குழுவில் உள்ள உறுப்பினர்களை நிர்வகிக்க பயன்படும்.",
+    "example": "$ sudo groupmems -a user -g developers"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "md5sum",
+    "english_description": "Computes the MD5 checksum of a file.",
+    "tamil_description": "ஒரு கோப்பின் MD5 checksum-ஐ கணக்கிட பயன்படும்.",
+    "example": "$ md5sum file.txt"
+}

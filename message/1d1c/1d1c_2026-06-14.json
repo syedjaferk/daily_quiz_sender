@@ -1,0 +1,6 @@
+{
+    "title": "rename",
+    "english_description": "Renames multiple files.",
+    "tamil_description": "பல கோப்புகளின் பெயர்களை ஒரே நேரத்தில் மாற்ற பயன்படும்.",
+    "example": "$ rename 's/.txt/.bak/' *.txt"
+}

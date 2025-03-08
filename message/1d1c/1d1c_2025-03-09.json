@@ -1,0 +1,6 @@
+{
+    "title": "echo",
+    "english_description": "Displays a line of text or variables.",
+    "tamil_description": "ஒரு உரையை அல்லது மாறிகளை (variables) திரையில் காண்பிக்க பயன்படும்.",
+    "example": "$ echo 'Hello, Linux!'"
+}

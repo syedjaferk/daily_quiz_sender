@@ -1,0 +1,6 @@
+{
+    "title": "bzip2",
+    "english_description": "Compresses files using the bzip2 algorithm.",
+    "tamil_description": "bzip2 சுருக்க முறையை பயன்படுத்தி கோப்புகளை சுருக்க பயன்படும்.",
+    "example": "$ bzip2 file.txt"
+}

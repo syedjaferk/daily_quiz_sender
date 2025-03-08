@@ -1,0 +1,6 @@
+{
+    "title": "ulimit",
+    "english_description": "Displays or sets resource limits for user processes.",
+    "tamil_description": "பயனர் செயல்களின் (processes) resource வரம்புகளை (limits) நிர்ணயிக்க பயன்படும்.",
+    "example": "$ ulimit -n"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "mktemp",
+    "english_description": "Creates a temporary file or directory.",
+    "tamil_description": "தற்காலிக கோப்பு அல்லது அடைவை உருவாக்க பயன்படும்.",
+    "example": "$ mktemp temp.XXXXXX"
+}

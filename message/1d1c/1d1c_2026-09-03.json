@@ -1,0 +1,6 @@
+{
+    "title": "autrace",
+    "english_description": "Traces system calls for a command using the audit system.",
+    "tamil_description": "Audit அமைப்பை பயன்படுத்தி ஒரு கட்டளையின் system call-களை கண்காணிக்க உதவும்.",
+    "example": "$ sudo autrace ls"
+}

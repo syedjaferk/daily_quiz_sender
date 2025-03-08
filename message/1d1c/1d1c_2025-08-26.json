@@ -1,0 +1,6 @@
+{
+    "title": "chpasswd",
+    "english_description": "Updates passwords in batch mode.",
+    "tamil_description": "பல பயனர்களின் கடவுச்சொற்களை ஒரே நேரத்தில் புதுப்பிக்க உதவும்.",
+    "example": "$ echo 'user:newpassword' | sudo chpasswd"
+}

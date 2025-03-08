@@ -1,0 +1,6 @@
+{
+    "title": "iwlist",
+    "english_description": "Lists available WiFi networks and their details.",
+    "tamil_description": "உள்நுழையக்கூடிய WiFi நெட்வொர்க் விவரங்களை காண்பிக்க பயன்படும்.",
+    "example": "$ iwlist wlan0 scan"
+}

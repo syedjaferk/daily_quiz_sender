@@ -1,0 +1,6 @@
+{
+    "title": "service",
+    "english_description": "Manages system services.",
+    "tamil_description": "கணினியின் சேவைகளை (services) நிர்வகிக்க பயன்படும்.",
+    "example": "$ sudo service apache2 restart"
+}

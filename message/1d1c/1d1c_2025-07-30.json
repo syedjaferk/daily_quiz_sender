@@ -1,0 +1,6 @@
+{
+    "title": "apparmor",
+    "english_description": "AppArmor is a Linux security module used to enforce application security policies.",
+    "tamil_description": "AppArmor என்பது லினக்சில் பயன்பாடுகளின் பாதுகாப்பு கொள்கைகளை அமல்படுத்த உதவும் பாதுகாப்பு செயற்கூறு.",
+    "example": "$ sudo apparmor_status"
+}

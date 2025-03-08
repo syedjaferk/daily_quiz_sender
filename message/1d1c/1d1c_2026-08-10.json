@@ -1,0 +1,6 @@
+{
+    "title": "whoami",
+    "english_description": "Displays the current logged-in username.",
+    "tamil_description": "தற்போது உள்நுழைந்துள்ள பயனரின் பெயரை காட்ட பயன்படும்.",
+    "example": "$ whoami"
+}

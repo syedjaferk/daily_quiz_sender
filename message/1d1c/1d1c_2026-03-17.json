@@ -1,0 +1,6 @@
+{
+    "title": "useradd",
+    "english_description": "Creates a new user account.",
+    "tamil_description": "புதிய பயனர் கணக்கை உருவாக்க பயன்படும்.",
+    "example": "$ sudo useradd newuser"
+}

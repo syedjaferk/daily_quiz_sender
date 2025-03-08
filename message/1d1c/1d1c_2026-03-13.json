@@ -1,0 +1,6 @@
+{
+    "title": "unexpand",
+    "english_description": "Converts spaces into tabs in a file.",
+    "tamil_description": "ஒரு கோப்பில் உள்ள வெற்றிடங்களை (spaces) tab-களாக மாற்ற பயன்படும்.",
+    "example": "$ unexpand -t 4 file.txt"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "restorecon",
+    "english_description": "Restores default SELinux security contexts.",
+    "tamil_description": "SELinux பாதுகாப்பு சூழலை (security context) மீட்டமைக்க பயன்படும்.",
+    "example": "$ sudo restorecon -Rv /var/www/html"
+}

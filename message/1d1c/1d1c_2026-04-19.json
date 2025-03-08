@@ -1,0 +1,6 @@
+{
+    "title": "source",
+    "english_description": "Executes commands from a file in the current shell.",
+    "tamil_description": "ஒரு கோப்பில் உள்ள கட்டளைகளை தற்போதைய shell-இல் இயக்க உதவும்.",
+    "example": "$ source ~/.bashrc"
+}

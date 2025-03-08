@@ -1,0 +1,6 @@
+{
+    "title": "dd",
+    "english_description": "Copies and converts data at a low level.",
+    "tamil_description": "குறைந்த மட்டத்தில் தரவை நகலெடுக்க மற்றும் மாற்ற பயன்படும்.",
+    "example": "$ dd if=/dev/sda of=/dev/sdb bs=4M"
+}

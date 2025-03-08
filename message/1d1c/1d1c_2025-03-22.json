@@ -1,0 +1,6 @@
+{
+    "title": "rmdir",
+    "english_description": "Removes empty directories.",
+    "tamil_description": "காலியான அடைவுகளை (empty directories) நீக்க பயன்படும்.",
+    "example": "$ rmdir empty_folder"
+}

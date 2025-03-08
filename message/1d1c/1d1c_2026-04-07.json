@@ -1,0 +1,6 @@
+{
+    "title": "at",
+    "english_description": "Schedules a command to run at a specified time.",
+    "tamil_description": "ஒரு கட்டளையை குறிப்பிட்ட நேரத்தில் இயக்க திட்டமிட பயன்படும்.",
+    "example": "$ echo 'echo Hello' | at 14:00"
+}

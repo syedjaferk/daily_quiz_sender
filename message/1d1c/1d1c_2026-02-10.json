@@ -1,0 +1,6 @@
+{
+    "title": "scp",
+    "english_description": "Copies files securely over SSH.",
+    "tamil_description": "SSH வழியாக பாதுகாப்பாக கோப்புகளை நகலெடுக்க பயன்படும்.",
+    "example": "$ scp file.txt user@remote:/home/user/"
+}

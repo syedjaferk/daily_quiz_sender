@@ -1,0 +1,6 @@
+{
+    "title": "cancel",
+    "english_description": "Cancels a print job in the print queue.",
+    "tamil_description": "அச்சுப்பணியை (print job) நிறுத்த பயன்படுத்தப்படும்.",
+    "example": "$ cancel printer-1"
+}

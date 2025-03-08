@@ -1,0 +1,6 @@
+{
+    "title": "mknod",
+    "english_description": "Creates a block or character device file.",
+    "tamil_description": "ஒரு block அல்லது character சாதனக் கோப்பை உருவாக்க பயன்படும்.",
+    "example": "$ mknod mydevice b 1 7"
+}

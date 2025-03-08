@@ -1,0 +1,6 @@
+{
+    "title": "dir",
+    "english_description": "Lists directory contents similar to ls.",
+    "tamil_description": "அடைவைப் (directory) பிரதி ls கட்டளையைப் போன்று காண்பிக்க பயன்படும்.",
+    "example": "$ dir -l"
+}

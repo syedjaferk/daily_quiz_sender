@@ -1,0 +1,6 @@
+{
+    "title": "bzcat",
+    "english_description": "bzcat is used to read bzip2-compressed files without decompressing them.",
+    "tamil_description": "bzcat கட்டளை bzip2-ல் சுருக்கப்பட்ட கோப்புகளை விரிவாக்காமல் படிக்க உதவுகிறது.",
+    "example": "$ bzcat file.bz2"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "unzip",
+    "english_description": "Extracts files from a .zip archive.",
+    "tamil_description": ".zip கோப்புகளிலிருந்து கோப்புகளை வெளியேற்ற பயன்படும்.",
+    "example": "$ unzip archive.zip"
+}

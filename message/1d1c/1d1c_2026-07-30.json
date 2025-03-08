@@ -1,0 +1,6 @@
+{
+    "title": "uuidgen",
+    "english_description": "Generates a random UUID.",
+    "tamil_description": "ஒரு யாத்ரிக UUID உருவாக்க பயன்படும்.",
+    "example": "$ uuidgen"
+}

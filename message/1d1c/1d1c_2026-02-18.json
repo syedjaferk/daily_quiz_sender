@@ -1,0 +1,6 @@
+{
+    "title": "strings",
+    "english_description": "Extracts readable text from binary files.",
+    "tamil_description": "Binary கோப்புகளில் உள்ள வாசிக்கக்கூடிய உரைகளை பெற பயன்படும்.",
+    "example": "$ strings binaryfile.bin"
+}

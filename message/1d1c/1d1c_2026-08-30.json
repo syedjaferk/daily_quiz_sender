@@ -1,0 +1,6 @@
+{
+    "title": "getenforce",
+    "english_description": "Displays the current SELinux mode.",
+    "tamil_description": "தற்போதைய SELinux பயன்முறையை காண்பிக்க பயன்படும்.",
+    "example": "$ getenforce"
+}

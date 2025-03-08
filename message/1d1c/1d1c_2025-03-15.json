@@ -1,0 +1,6 @@
+{
+    "title": "history",
+    "english_description": "Displays a list of previously executed commands.",
+    "tamil_description": "முந்தைய இயக்கிய கட்டளைகளை (commands) காண்பிக்க பயன்படும்.",
+    "example": "$ history"
+}

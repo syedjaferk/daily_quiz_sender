@@ -1,0 +1,6 @@
+{
+    "title": "e2label",
+    "english_description": "Displays or sets the label of an ext2/ext3/ext4 filesystem.",
+    "tamil_description": "ext2/ext3/ext4 கோப்பு அமைப்பின் label-ஐ காண்பிக்க அல்லது மாற்ற பயன்படும்.",
+    "example": "$ sudo e2label /dev/sda1 mydisk"
+}

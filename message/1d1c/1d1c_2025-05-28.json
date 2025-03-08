@@ -1,0 +1,6 @@
+{
+    "title": "curl",
+    "english_description": "Transfers data from or to a server using various protocols.",
+    "tamil_description": "பல்வேறு நெறிமுறைகளை (protocols) பயன்படுத்தி தரவை அனுப்ப மற்றும் பெற பயன்படும்.",
+    "example": "$ curl -O https://example.com/file.zip"
+}

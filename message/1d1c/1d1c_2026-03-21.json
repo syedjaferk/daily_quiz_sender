@@ -1,0 +1,6 @@
+{
+    "title": "vdir",
+    "english_description": "Lists directory contents in long format.",
+    "tamil_description": "ஒரு அடைவு உள்ளடக்கங்களை விரிவான முறையில் காண்பிக்க பயன்படும்.",
+    "example": "$ vdir"
+}

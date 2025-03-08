@@ -1,0 +1,6 @@
+{
+    "title": "mail",
+    "english_description": "Reads and sends emails from the command line.",
+    "tamil_description": "கட்டளை வரியில் இருந்து மின்னஞ்சல் அனுப்ப மற்றும் பெற பயன்படும்.",
+    "example": "$ echo 'Hello' | mail -s 'Test Mail' user@example.com"
+}

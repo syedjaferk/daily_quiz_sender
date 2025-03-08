@@ -1,0 +1,6 @@
+{
+    "title": "hd",
+    "english_description": "Displays file contents in hexadecimal format.",
+    "tamil_description": "கோப்பு உள்ளடக்கங்களை hexadecimal வடிவில் காண்பிக்க உதவும்.",
+    "example": "$ hd file.bin"
+}

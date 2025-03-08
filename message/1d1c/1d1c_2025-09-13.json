@@ -1,0 +1,6 @@
+{
+    "title": "dumpe2fs",
+    "english_description": "Displays information about an ext2/ext3/ext4 filesystem.",
+    "tamil_description": "ext2/ext3/ext4 கோப்பு அமைப்பின் விவரங்களை வழங்கும்.",
+    "example": "$ sudo dumpe2fs /dev/sda1"
+}

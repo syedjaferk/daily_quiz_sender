@@ -1,0 +1,6 @@
+{
+    "title": "bzcmp",
+    "english_description": "Compares two bzip2-compressed files using the cmp command.",
+    "tamil_description": "cmp கட்டளையைப் பயன்படுத்தி இரண்டு bzip2 கோப்புகளை ஒப்பிடும்.",
+    "example": "$ bzcmp file1.bz2 file2.bz2"
+}

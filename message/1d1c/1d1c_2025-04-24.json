@@ -1,0 +1,6 @@
+{
+    "title": "htop",
+    "english_description": "Interactive process manager to monitor system resources.",
+    "tamil_description": "கணினியின் செயல்கள் (processes) மற்றும் memory பயன்பாட்டை காண்பிக்க பயன்படும்.",
+    "example": "$ htop"
+}

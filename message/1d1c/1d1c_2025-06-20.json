@@ -1,0 +1,6 @@
+{
+    "title": "chown",
+    "english_description": "Changes the owner of a file or directory.",
+    "tamil_description": "ஒரு கோப்பின் அல்லது அடைவு உரிமையை மாற்ற பயன்படும்.",
+    "example": "$ sudo chown user:group file.txt"
+}

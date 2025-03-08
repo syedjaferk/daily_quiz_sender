@@ -1,0 +1,6 @@
+{
+    "title": "mkfs",
+    "english_description": "Creates a new filesystem on a partition.",
+    "tamil_description": "ஒரு hard disk partition-ல் புதிய கோப்பு அமைப்பை (filesystem) உருவாக்க பயன்படும்.",
+    "example": "$ sudo mkfs.ext4 /dev/sdb1"
+}

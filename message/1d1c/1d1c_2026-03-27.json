@@ -1,0 +1,6 @@
+{
+    "title": "who",
+    "english_description": "Displays a list of logged-in users.",
+    "tamil_description": "உள்நுழைந்துள்ள பயனர்களின் விவரங்களை காண்பிக்க பயன்படும்.",
+    "example": "$ who"
+}

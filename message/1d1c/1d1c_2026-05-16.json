@@ -1,0 +1,6 @@
+{
+    "title": "logname",
+    "english_description": "Displays the name of the logged-in user.",
+    "tamil_description": "தற்போது உள்நுழைந்துள்ள பயனரின் பெயரை காட்ட பயன்படும்.",
+    "example": "$ logname"
+}

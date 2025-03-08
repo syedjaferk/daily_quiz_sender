@@ -1,0 +1,6 @@
+{
+    "title": "arch",
+    "english_description": "arch displays the system’s architecture type.",
+    "tamil_description": "arch கட்டளை கணினியின் செயலி கட்டமைப்பை காட்டுகிறது.",
+    "example": "$ arch"
+}

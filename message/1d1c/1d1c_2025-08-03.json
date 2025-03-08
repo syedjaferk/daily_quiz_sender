@@ -1,0 +1,6 @@
+{
+    "title": "aa-teardown",
+    "english_description": "Unloads all AppArmor profiles from the system.",
+    "tamil_description": "அனைத்து AppArmor வழிமுறைகளையும் கணினியில் இருந்து அகற்றும்.",
+    "example": "$ sudo aa-teardown"
+}

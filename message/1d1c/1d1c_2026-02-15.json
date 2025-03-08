@@ -1,0 +1,6 @@
+{
+    "title": "sort",
+    "english_description": "Sorts lines of text files.",
+    "tamil_description": "உரை கோப்புகளின் வரிகளை வரிசைப்படுத்த பயன்படும்.",
+    "example": "$ sort file.txt"
+}

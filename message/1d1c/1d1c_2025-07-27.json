@@ -1,0 +1,6 @@
+{
+    "title": "blkdeactivate",
+    "english_description": "blkdeactivate is used to deactivate block devices.",
+    "tamil_description": "blkdeactivate கட்டளை சேமிப்பு சாதனங்களை முடக்க உதவுகிறது.",
+    "example": "$ sudo blkdeactivate"
+}

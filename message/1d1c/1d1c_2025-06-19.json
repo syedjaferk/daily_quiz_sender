@@ -1,0 +1,6 @@
+{
+    "title": "quota",
+    "english_description": "Displays disk usage and limits for a user.",
+    "tamil_description": "ஒரு பயனரின் வட்டு பயன்பாடு மற்றும் வரம்புகளை (limits) காண்பிக்க பயன்படும்.",
+    "example": "$ quota -u username"
+}

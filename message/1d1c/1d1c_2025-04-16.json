@@ -1,0 +1,6 @@
+{
+    "title": "gzip",
+    "english_description": "Compresses files using the gzip algorithm.",
+    "tamil_description": "gzip சுருக்க முறையை பயன்படுத்தி கோப்புகளை சுருக்க பயன்படும்.",
+    "example": "$ gzip file.txt"
+}

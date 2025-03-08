@@ -1,0 +1,6 @@
+{
+    "title": "ln",
+    "english_description": "Creates symbolic or hard links to files.",
+    "tamil_description": "ஒரு கோப்புக்கான symbolic அல்லது hard link உருவாக்க பயன்படும்.",
+    "example": "$ ln -s original.txt link.txt"
+}

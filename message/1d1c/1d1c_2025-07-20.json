@@ -1,0 +1,6 @@
+{
+    "title": "bg",
+    "english_description": "bg resumes a suspended job in the background.",
+    "tamil_description": "bg கட்டளை இடைநிறுத்தப்பட்ட பணியை பின்னணி முறையில் இயக்க உதவுகிறது.",
+    "example": "$ bg %1"
+}

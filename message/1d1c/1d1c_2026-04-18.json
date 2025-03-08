@@ -1,0 +1,6 @@
+{
+    "title": "export",
+    "english_description": "Sets an environment variable.",
+    "tamil_description": "ஒரு சூழல் மாறியை (environment variable) அமைக்க பயன்படும்.",
+    "example": "$ export PATH=/usr/local/bin:$PATH"
+}

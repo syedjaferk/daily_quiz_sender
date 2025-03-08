@@ -1,0 +1,6 @@
+{
+    "title": "tail",
+    "english_description": "Displays the last few lines of a file.",
+    "tamil_description": "ஒரு கோப்பின் கடைசி வரிகளை காண்பிக்க பயன்படும்.",
+    "example": "$ tail -n 10 file.txt"
+}

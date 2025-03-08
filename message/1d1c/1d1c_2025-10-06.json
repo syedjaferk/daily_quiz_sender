@@ -1,0 +1,6 @@
+{
+    "title": "e2mmpstatus",
+    "english_description": "Checks the multi-mount protection (MMP) status of an ext4 filesystem.",
+    "tamil_description": "ext4 கோப்பு அமைப்பின் MMP நிலையை சரிபார்க்க பயன்படும்.",
+    "example": "$ sudo e2mmpstatus /dev/sda1"
+}

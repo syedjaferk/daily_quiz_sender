@@ -1,0 +1,6 @@
+{
+    "title": "locate",
+    "english_description": "Finds files and directories by name quickly using a pre-built index.",
+    "tamil_description": "கணினியில் உள்ள கோப்புகளை விரைவாக தேட பயன்படும்.",
+    "example": "$ locate file.txt"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "hash",
+    "english_description": "Displays or resets command lookup information.",
+    "tamil_description": "ஒரு கட்டளை எங்கு உள்ளது என்பதை தெரிந்து கொள்ள பயன்படும்.",
+    "example": "$ hash -r"
+}

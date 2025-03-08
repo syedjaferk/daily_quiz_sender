@@ -1,0 +1,6 @@
+{
+    "title": "chage",
+    "english_description": "Manages password expiration policies.",
+    "tamil_description": "கடவுச்சொல் காலாவதி விதிகளை நிர்வகிக்க பயன்படும்.",
+    "example": "$ sudo chage -l username"
+}

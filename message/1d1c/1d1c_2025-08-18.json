@@ -1,0 +1,6 @@
+{
+    "title": "cheese",
+    "english_description": "Takes pictures and videos from the webcam.",
+    "tamil_description": "வெப் கேமராவில் இருந்து புகைப்படம் எடுக்க பயன்படும்.",
+    "example": "$ cheese -f"
+}

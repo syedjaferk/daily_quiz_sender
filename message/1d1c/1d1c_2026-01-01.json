@@ -1,0 +1,6 @@
+{
+    "title": "lsns",
+    "english_description": "Lists all namespaces used by processes.",
+    "tamil_description": "செயல்கள் பயன்படுத்தும் namespaces-ஐ காண்பிக்க பயன்படும்.",
+    "example": "$ lsns"
+}

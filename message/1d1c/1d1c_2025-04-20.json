@@ -1,0 +1,6 @@
+{
+    "title": "df",
+    "english_description": "Displays disk space usage.",
+    "tamil_description": "வட்டின் (disk) பயன்பாட்டை காண்பிக்க பயன்படும்.",
+    "example": "$ df -h"
+}

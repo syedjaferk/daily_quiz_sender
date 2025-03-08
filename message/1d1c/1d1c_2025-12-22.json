@@ -1,0 +1,6 @@
+{
+    "title": "logger",
+    "english_description": "Adds messages to the system log.",
+    "tamil_description": "கணினியின் system log-இல் தகவல்களை சேர்க்க பயன்படும்.",
+    "example": "$ logger 'System maintenance started'"
+}

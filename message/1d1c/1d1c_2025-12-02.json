@@ -1,0 +1,6 @@
+{
+    "title": "hexdump",
+    "english_description": "Displays file contents in hexadecimal, decimal, octal, or ASCII format.",
+    "tamil_description": "கோப்பு உள்ளடக்கங்களை hexadecimal, decimal, octal, அல்லது ASCII வடிவத்தில் காண்பிக்க பயன்படும்.",
+    "example": "$ hexdump -C file.bin"
+}

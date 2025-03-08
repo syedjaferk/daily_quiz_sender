@@ -1,0 +1,6 @@
+{
+    "title": "ebook-meta",
+    "english_description": "Displays or modifies eBook metadata.",
+    "tamil_description": "eBook கோப்பின் metadata-ஐ காண்பிக்க அல்லது மாற்ற பயன்படும்.",
+    "example": "$ ebook-meta book.epub"
+}

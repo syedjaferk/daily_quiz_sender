@@ -1,0 +1,6 @@
+{
+    "title": "adduser",
+    "english_description": "adduser is used to add a new user to the system with home directory and settings.",
+    "tamil_description": "adduser கட்டளை புதிய பயனரை கணினியில் சேர்க்க பயன்படுத்தப்படுகிறது.",
+    "example": "$ sudo adduser newuser"
+}

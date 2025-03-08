@@ -1,0 +1,6 @@
+{
+    "title": "du",
+    "english_description": "Estimates file space usage.",
+    "tamil_description": "கோப்பு இட பயன்பாட்டை கணக்கிட உதவும்.",
+    "example": "$ du -sh /home/user"
+}

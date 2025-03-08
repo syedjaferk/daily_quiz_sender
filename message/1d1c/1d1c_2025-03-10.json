@@ -1,0 +1,6 @@
+{
+    "title": "cat",
+    "english_description": "Concatenates and displays the content of files.",
+    "tamil_description": "கோப்புகளை இணைத்து அதன் உள்ளடக்கங்களை காண்பிக்க பயன்படும்.",
+    "example": "$ cat file.txt"
+}

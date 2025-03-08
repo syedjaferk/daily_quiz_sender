@@ -1,0 +1,6 @@
+{
+    "title": "ctrlaltdel",
+    "english_description": "Sets the function of the Ctrl+Alt+Del key combination.",
+    "tamil_description": "Ctrl+Alt+Del விசைகளின் செயல்பாட்டை அமைக்க உதவும்.",
+    "example": "$ sudo ctrlaltdel hard"
+}

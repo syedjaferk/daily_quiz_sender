@@ -1,0 +1,6 @@
+{
+    "title": "false",
+    "english_description": "Returns an exit status of 1 (false).",
+    "tamil_description": "எப்போதும் தவறான (false) நிலையை திருப்பி தரும்.",
+    "example": "$ false && echo 'Will not run'"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "cfdisk",
+    "english_description": "Partition table manipulator for Linux.",
+    "tamil_description": "Linux-ல் hard disk பகிர்வுகளை நிர்வகிக்க பயன்படும்.",
+    "example": "$ sudo cfdisk /dev/sda"
+}

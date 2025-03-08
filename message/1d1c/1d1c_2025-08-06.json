@@ -1,0 +1,6 @@
+{
+    "title": "bzgrep",
+    "english_description": "Searches for a pattern inside a bzip2-compressed file.",
+    "tamil_description": "bzip2-ல் சுருக்கப்பட்ட கோப்பில் குறிப்பிட்ட மாதிரியை தேடும்.",
+    "example": "$ bzgrep 'error' log.bz2"
+}

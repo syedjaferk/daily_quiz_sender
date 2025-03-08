@@ -1,0 +1,6 @@
+{
+    "title": "zegrep",
+    "english_description": "Searches for patterns in .gz files using extended grep.",
+    "tamil_description": ".gz கோப்புகளில் விரிவாக்கப்பட்ட regular expressions மூலம் தேட பயன்படும்.",
+    "example": "$ zegrep 'error' logs.gz"
+}

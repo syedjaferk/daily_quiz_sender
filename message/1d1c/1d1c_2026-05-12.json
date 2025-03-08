@@ -1,0 +1,6 @@
+{
+    "title": "kill",
+    "english_description": "Terminates a process by its process ID (PID).",
+    "tamil_description": "ஒரு செயல்முறையை அதன் PID (process ID) மூலம் நிறுத்த பயன்படும்.",
+    "example": "$ kill 1234"
+}

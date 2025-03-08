@@ -1,0 +1,6 @@
+{
+    "title": "tee",
+    "english_description": "Reads from standard input and writes to multiple files.",
+    "tamil_description": "ஒரே நேரத்தில் உள்ளீட்டிலிருந்து வாசித்து பல கோப்புகளுக்கு எழுத உதவும்.",
+    "example": "$ echo 'Hello' | tee file1.txt file2.txt"
+}

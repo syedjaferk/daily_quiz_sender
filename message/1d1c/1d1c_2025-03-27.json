@@ -1,0 +1,6 @@
+{
+    "title": "wc",
+    "english_description": "Counts lines, words, and characters in a file.",
+    "tamil_description": "ஒரு கோப்பில் உள்ள வரிகள், வார்த்தைகள், மற்றும் எழுத்துகளின் எண்ணிக்கையை காண்பிக்க பயன்படும்.",
+    "example": "$ wc -l file.txt"
+}

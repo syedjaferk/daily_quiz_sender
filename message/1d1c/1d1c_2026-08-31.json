@@ -1,0 +1,6 @@
+{
+    "title": "setenforce",
+    "english_description": "Temporarily changes SELinux mode.",
+    "tamil_description": "தற்காலிகமாக SELinux பயன்முறையை மாற்ற பயன்படும்.",
+    "example": "$ sudo setenforce 0"
+}

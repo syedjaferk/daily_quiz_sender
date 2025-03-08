@@ -1,0 +1,6 @@
+{
+    "title": "journalctl",
+    "english_description": "Displays logs from systemd journal.",
+    "tamil_description": "systemd journal-இல் உள்ள பதிவுகளை (logs) காண்பிக்க பயன்படும்.",
+    "example": "$ journalctl -xe"
+}

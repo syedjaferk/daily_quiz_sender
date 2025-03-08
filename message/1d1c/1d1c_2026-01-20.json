@@ -1,0 +1,6 @@
+{
+    "title": "nproc",
+    "english_description": "Displays the number of available CPU cores.",
+    "tamil_description": "கணினியில் உள்ள CPU-வின் கிடைக்கக்கூடிய கருவிகள் எண்ணிக்கையை காண்பிக்க பயன்படும்.",
+    "example": "$ nproc"
+}

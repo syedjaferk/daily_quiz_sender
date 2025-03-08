@@ -1,0 +1,6 @@
+{
+    "title": "deluser",
+    "english_description": "Removes a user account from the system.",
+    "tamil_description": "ஒரு பயனரை கணினியில் இருந்து நீக்க பயன்படும்.",
+    "example": "$ sudo deluser username"
+}

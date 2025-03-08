@@ -1,0 +1,6 @@
+{
+    "title": "nano",
+    "english_description": "Opens a simple text editor in the terminal.",
+    "tamil_description": "Terminal-இல் உள்ளடக்கத்தை திருத்த பயன்படும் ஒரு எளிய text editor.",
+    "example": "$ nano file.txt"
+}

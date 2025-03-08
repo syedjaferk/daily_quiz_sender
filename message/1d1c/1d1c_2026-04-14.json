@@ -1,0 +1,6 @@
+{
+    "title": "printf",
+    "english_description": "Formats and prints text.",
+    "tamil_description": "உரையை வடிவமைத்து அச்சிட பயன்படும்.",
+    "example": "$ printf 'Name: %s, Age: %d\\n' 'John' 25"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "sysctl",
+    "english_description": "Modifies kernel parameters at runtime.",
+    "tamil_description": "Kernel-இன் அமைப்புகளை இயக்கத்தின் போது மாற்ற பயன்படும்.",
+    "example": "$ sysctl -a"
+}

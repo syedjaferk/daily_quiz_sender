@@ -1,0 +1,6 @@
+{
+    "title": "notify-send",
+    "english_description": "Sends desktop notifications from the command line.",
+    "tamil_description": "கணினியில் அறிவிப்பு (notification) அனுப்ப பயன்படும்.",
+    "example": "$ notify-send 'Task Completed'"
+}

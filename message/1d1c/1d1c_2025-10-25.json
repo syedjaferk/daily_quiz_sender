@@ -1,0 +1,6 @@
+{
+    "title": "fg",
+    "english_description": "Resumes a job running in the background and brings it to the foreground.",
+    "tamil_description": "பின்னணி (background) செயலாக இயங்கும் பணியை முன்புறம் கொண்டு வர பயன்படும்.",
+    "example": "$ fg %1"
+}

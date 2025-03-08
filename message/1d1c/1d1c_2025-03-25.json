@@ -1,0 +1,6 @@
+{
+    "title": "man",
+    "english_description": "Displays the manual pages for commands.",
+    "tamil_description": "கட்டளைகளுக்கான கையேட்டினை (manual pages) காண்பிக்க பயன்படும்.",
+    "example": "$ man ls"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "groupdel",
+    "english_description": "Deletes a user group.",
+    "tamil_description": "ஒரு பயனர் குழுவை நீக்க பயன்படும்.",
+    "example": "$ sudo groupdel mygroup"
+}

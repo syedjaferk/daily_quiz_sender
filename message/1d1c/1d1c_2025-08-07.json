@@ -1,0 +1,6 @@
+{
+    "title": "bzless",
+    "english_description": "Views bzip2-compressed files using the less command.",
+    "tamil_description": "less கட்டளையை பயன்படுத்தி bzip2-ல் சுருக்கப்பட்ட கோப்புகளை காண்பிக்க உதவும்.",
+    "example": "$ bzless file.bz2"
+}

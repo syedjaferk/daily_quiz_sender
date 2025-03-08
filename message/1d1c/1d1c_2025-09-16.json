@@ -1,0 +1,6 @@
+{
+    "title": "dpkg-query",
+    "english_description": "Queries the dpkg database for package information.",
+    "tamil_description": "dpkg தரவுத்தளத்தில் இருந்து தொகுப்பு தகவலை பெற உதவும்.",
+    "example": "$ dpkg-query -l | grep apache2"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "check-bios-nx",
+    "english_description": "Checks if the BIOS has blocked the CPU’s NX capability.",
+    "tamil_description": "BIOS-ல் NX ஆதரவு இயங்குகிறதா என சரிபார்க்கும்.",
+    "example": "$ sudo check-bios-nx --verbose"
+}

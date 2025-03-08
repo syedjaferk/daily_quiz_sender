@@ -1,0 +1,6 @@
+{
+    "title": "which",
+    "english_description": "Displays the full path of a command.",
+    "tamil_description": "ஒரு கட்டளை எந்த பாதையில் இருக்கிறது என்பதை காண்பிக்க பயன்படும்.",
+    "example": "$ which python"
+}

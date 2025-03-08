@@ -1,0 +1,6 @@
+{
+    "title": "parted",
+    "english_description": "Manages disk partitions.",
+    "tamil_description": "Hard disk-இன் பகிர்வுகளை (partitions) நிர்வகிக்க பயன்படும்.",
+    "example": "$ sudo parted /dev/sda"
+}

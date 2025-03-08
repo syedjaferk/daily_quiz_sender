@@ -1,0 +1,6 @@
+{
+    "title": "grep",
+    "english_description": "Searches for patterns in files using regular expressions.",
+    "tamil_description": "கோப்புகளில் குறிப்பிட்ட மாதிரிகளை (patterns) தேட உதவும்.",
+    "example": "$ grep 'error' logfile.txt"
+}

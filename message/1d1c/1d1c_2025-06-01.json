@@ -1,0 +1,6 @@
+{
+    "title": "dig",
+    "english_description": "Queries DNS records.",
+    "tamil_description": "DNS பதிவுகளை (records) பார்க்க பயன்படும்.",
+    "example": "$ dig example.com"
+}

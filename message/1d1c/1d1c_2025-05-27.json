@@ -1,0 +1,6 @@
+{
+    "title": "wget",
+    "english_description": "Downloads files from the internet.",
+    "tamil_description": "இணையத்திலிருந்து கோப்புகளை பதிவிறக்க பயன்படும்.",
+    "example": "$ wget https://example.com/file.zip"
+}

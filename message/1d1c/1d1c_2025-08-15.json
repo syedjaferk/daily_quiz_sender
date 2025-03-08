@@ -1,0 +1,6 @@
+{
+    "title": "chage",
+    "english_description": "Changes the password aging information for a user.",
+    "tamil_description": "ஒரு பயனரின் கடவுச்சொல் காலாவதி தகவலை மாற்ற பயன்படும்.",
+    "example": "$ sudo chage -l username"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "dmesg",
+    "english_description": "Displays system kernel messages.",
+    "tamil_description": "கணினியின் kernel செய்திகள் மற்றும் தகவல்களை காண்பிக்க பயன்படும்.",
+    "example": "$ dmesg | grep -i usb"
+}

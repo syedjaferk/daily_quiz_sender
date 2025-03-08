@@ -1,0 +1,6 @@
+{
+    "title": "exec",
+    "english_description": "Replaces the current shell with a new process.",
+    "tamil_description": "தற்போதைய shell-ஐ புதிய செயலாக மாற்ற பயன்படும்.",
+    "example": "$ exec bash"
+}

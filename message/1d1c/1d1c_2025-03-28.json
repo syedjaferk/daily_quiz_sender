@@ -1,0 +1,6 @@
+{
+    "title": "find",
+    "english_description": "Searches for files and directories based on conditions.",
+    "tamil_description": "குறிப்பிட்ட நிலைமைகளின் அடிப்படையில் கோப்புகள் மற்றும் அடைவுகளை தேட பயன்படும்.",
+    "example": "$ find /home -name '*.txt'"
+}

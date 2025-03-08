@@ -1,0 +1,6 @@
+{
+    "title": "chcon",
+    "english_description": "Changes SELinux security context of a file.",
+    "tamil_description": "SELinux-இன் security context-ஐ மாற்ற பயன்படும்.",
+    "example": "$ chcon -t httpd_sys_content_t file.txt"
+}

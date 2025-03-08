@@ -1,0 +1,6 @@
+{
+    "title": "dirname",
+    "english_description": "Extracts the directory path from a file path.",
+    "tamil_description": "ஒரு கோப்பு பாதையில் இருந்து அடைவை பிரித்தெடுக்க பயன்படும்.",
+    "example": "$ dirname /home/user/file.txt"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "fold",
+    "english_description": "Wraps long lines in a file to fit within a specified width.",
+    "tamil_description": "நீண்ட வரிகளை குறிப்பிட்ட அகலத்திற்கு மடிக்க உதவும்.",
+    "example": "$ fold -w 80 file.txt"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "pmap",
+    "english_description": "Displays memory map of a process.",
+    "tamil_description": "ஒரு செயலின் (process) memory பயன்பாட்டை காட்ட பயன்படும்.",
+    "example": "$ pmap 1234"
+}

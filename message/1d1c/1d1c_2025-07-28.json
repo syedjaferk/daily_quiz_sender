@@ -1,0 +1,6 @@
+{
+    "title": "bc",
+    "english_description": "bc is an arbitrary precision calculator language in Linux.",
+    "tamil_description": "bc என்பது லினக்சில் உயர்தர கணக்கீடுகளுக்காக பயன்படுத்தப்படும் கணித மொழி.",
+    "example": "$ echo '5 + 3' | bc"
+}

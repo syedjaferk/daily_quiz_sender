@@ -1,0 +1,6 @@
+{
+    "title": "lsusb",
+    "english_description": "Lists USB devices connected to the system.",
+    "tamil_description": "கணினியில் இணைக்கப்பட்டுள்ள USB சாதனங்களை (devices) காண்பிக்க பயன்படும்.",
+    "example": "$ lsusb"
+}

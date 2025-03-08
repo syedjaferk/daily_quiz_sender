@@ -1,0 +1,6 @@
+{
+    "title": "basename",
+    "english_description": "Extracts the file name from a path.",
+    "tamil_description": "ஒரு கோப்பின் பாதையில் இருந்து அதன் பெயரை பிரித்தெடுக்க பயன்படும்.",
+    "example": "$ basename /home/user/file.txt"
+}

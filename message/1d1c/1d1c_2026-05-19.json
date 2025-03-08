@@ -1,0 +1,6 @@
+{
+    "title": "lsblk",
+    "english_description": "Displays information about block devices.",
+    "tamil_description": "கணினியில் உள்ள storage devices பற்றிய விவரங்களை காண்பிக்க பயன்படும்.",
+    "example": "$ lsblk"
+}

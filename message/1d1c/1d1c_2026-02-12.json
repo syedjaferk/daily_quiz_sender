@@ -1,0 +1,6 @@
+{
+    "title": "seq",
+    "english_description": "Generates a sequence of numbers.",
+    "tamil_description": "எண்களின் வரிசையை உருவாக்க பயன்படும்.",
+    "example": "$ seq 1 10"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "cd",
+    "english_description": "Changes the current directory.",
+    "tamil_description": "தற்போதைய அடைவை மாற்ற பயன்படும்.",
+    "example": "$ cd /home/user"
+}

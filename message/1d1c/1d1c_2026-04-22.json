@@ -1,0 +1,6 @@
+{
+    "title": "ulimit",
+    "english_description": "Displays or sets limits on system resources.",
+    "tamil_description": "கணினியின் resource வரம்புகளை (limits) மாற்ற பயன்படும்.",
+    "example": "$ ulimit -n 1024"
+}

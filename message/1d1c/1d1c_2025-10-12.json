@@ -1,0 +1,6 @@
+{
+    "title": "ed",
+    "english_description": "A line-oriented text editor.",
+    "tamil_description": "ஒரு வரி-கேந்திரமான உரை திருத்தி (text editor).",
+    "example": "$ ed file.txt"
+}

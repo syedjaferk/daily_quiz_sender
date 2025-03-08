@@ -1,0 +1,6 @@
+{
+    "title": "bunzip2",
+    "english_description": "Decompresses bzip2 compressed files.",
+    "tamil_description": "bzip2 மூலம் சுருக்கப்பட்ட கோப்புகளை விரிவாக்க உதவும்.",
+    "example": "$ bunzip2 file.txt.bz2"
+}

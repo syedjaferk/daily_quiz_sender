@@ -1,0 +1,6 @@
+{
+    "title": "bunzip2",
+    "english_description": "bunzip2 is used to decompress files compressed using bzip2.",
+    "tamil_description": "bunzip2 கட்டளை bzip2 ஒழுங்கமைப்பில் சுருக்கப்பட்ட கோப்புகளை விரிவாக்க பயன்படுத்தப்படுகிறது.",
+    "example": "$ bunzip2 file.bz2"
+}

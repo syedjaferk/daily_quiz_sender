@@ -1,0 +1,6 @@
+{
+    "title": "ethtool",
+    "english_description": "Displays or changes Ethernet device settings.",
+    "tamil_description": "Ethernet சாதன அமைப்புகளை (device settings) காண்பிக்க அல்லது மாற்ற பயன்படும்.",
+    "example": "$ ethtool eth0"
+}

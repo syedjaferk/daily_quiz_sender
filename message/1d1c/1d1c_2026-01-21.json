@@ -1,0 +1,6 @@
+{
+    "title": "nslookup",
+    "english_description": "Queries DNS to obtain domain name or IP address mappings.",
+    "tamil_description": "DNS தகவல்களை பெற பயன்படும்.",
+    "example": "$ nslookup example.com"
+}

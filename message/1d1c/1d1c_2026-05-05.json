@@ -1,0 +1,6 @@
+{
+    "title": "getopt",
+    "english_description": "Parses command-line options.",
+    "tamil_description": "கட்டளை வரி விருப்பங்களை (command-line options) பாகுபடுத்த பயன்படும்.",
+    "example": "$ getopt -o h --long help -- \"$@\""
+}

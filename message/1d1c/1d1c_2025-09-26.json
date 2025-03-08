@@ -1,0 +1,6 @@
+{
+    "title": "date",
+    "english_description": "Displays or sets the system date and time.",
+    "tamil_description": "கணினியின் தேதி மற்றும் நேரத்தை காண்பிக்க அல்லது மாற்ற பயன்படும்.",
+    "example": "$ date '+%Y-%m-%d %H:%M:%S'"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "findfs",
+    "english_description": "Finds a filesystem by label or UUID.",
+    "tamil_description": "ஒரு கோப்பு அமைப்பை அதன் label அல்லது UUID மூலம் கண்டுபிடிக்க உதவும்.",
+    "example": "$ findfs LABEL=mydisk"
+}

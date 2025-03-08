@@ -1,0 +1,6 @@
+{
+    "title": "getent",
+    "english_description": "Fetches entries from system databases like passwd and group.",
+    "tamil_description": "passwd, group போன்ற கணினி தரவுத்தளங்களிலிருந்து உள்ளடக்கங்களை (entries) பெற உதவும்.",
+    "example": "$ getent passwd username"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "timeout",
+    "english_description": "Runs a command with a time limit.",
+    "tamil_description": "குறிப்பிட்ட நேரம் வரை மட்டுமே கட்டளையை இயக்க பயன்படும்.",
+    "example": "$ timeout 10s command"
+}

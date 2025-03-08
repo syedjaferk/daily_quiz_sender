@@ -1,0 +1,6 @@
+{
+    "title": "add-apt-repository",
+    "english_description": "add-apt-repository adds or removes PPA repositories in APT.",
+    "tamil_description": "add-apt-repository கட்டளை PPA சேமிப்பகங்களை சேர்க்க அல்லது நீக்க உதவுகிறது.",
+    "example": "$ sudo add-apt-repository ppa:libreoffice/ppa"
+}

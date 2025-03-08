@@ -1,0 +1,6 @@
+{
+    "title": "batch",
+    "english_description": "Executes commands when system load is low.",
+    "tamil_description": "கணினியின் செயல்பாட்டு சுமை குறைந்தபோது கட்டளைகளை இயக்க உதவும்.",
+    "example": "$ echo 'backup.sh' | batch"
+}

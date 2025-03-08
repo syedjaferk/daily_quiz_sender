@@ -1,0 +1,6 @@
+{
+    "title": "column",
+    "english_description": "Formats text into columns.",
+    "tamil_description": "ஒரு கோப்பின் உள்ளடக்கத்தை நெடுவரிசைகளாக வடிவமைக்க உதவும்.",
+    "example": "$ column -t file.txt"
+}

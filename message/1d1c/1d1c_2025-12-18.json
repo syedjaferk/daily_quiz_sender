@@ -1,0 +1,6 @@
+{
+    "title": "killall",
+    "english_description": "Terminates all processes with a given name.",
+    "tamil_description": "ஒரே பெயருடன் இயங்கும் அனைத்து செயல்களையும் முடிக்க பயன்படும்.",
+    "example": "$ sudo killall firefox"
+}

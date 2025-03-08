@@ -1,0 +1,6 @@
+{
+    "title": "clear",
+    "english_description": "Clears the terminal screen.",
+    "tamil_description": "முனையத்தை (terminal) காலியாக செய்ய பயன்படும்.",
+    "example": "$ clear"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "id",
+    "english_description": "Displays user ID (UID) and group ID (GID) information.",
+    "tamil_description": "பயனர் மற்றும் குழு ID விவரங்களை (UID, GID) காண்பிக்க பயன்படும்.",
+    "example": "$ id username"
+}

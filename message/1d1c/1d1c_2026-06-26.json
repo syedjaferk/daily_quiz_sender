@@ -1,0 +1,6 @@
+{
+    "title": "shutdown",
+    "english_description": "Schedules or immediately shuts down the system.",
+    "tamil_description": "கணினியை உடனடியாக அல்லது திட்டமிட்டு அணைக்க பயன்படும்.",
+    "example": "$ sudo shutdown -h now"
+}

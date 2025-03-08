@@ -1,0 +1,6 @@
+{
+    "title": "curl",
+    "english_description": "Transfers data from or to a server using URL.",
+    "tamil_description": "URL-ஐ பயன்படுத்தி தரவுகளை பரிமாற உதவும்.",
+    "example": "$ curl -O https://example.com/file.txt"
+}

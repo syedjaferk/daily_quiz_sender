@@ -1,0 +1,6 @@
+{
+    "title": "systemd-analyze",
+    "english_description": "Analyzes system boot performance.",
+    "tamil_description": "கணினி துவக்கத்தின் செயல்திறனை (boot performance) பகுப்பாய்வு செய்ய பயன்படும்.",
+    "example": "$ systemd-analyze blame"
+}

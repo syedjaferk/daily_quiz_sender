@@ -1,0 +1,6 @@
+{
+    "title": "sum",
+    "english_description": "Calculates the checksum and block count of a file.",
+    "tamil_description": "ஒரு கோப்பின் checksum மற்றும் block எண்ணிக்கையை கணக்கிட பயன்படும்.",
+    "example": "$ sum file.txt"
+}

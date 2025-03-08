@@ -1,0 +1,6 @@
+{
+    "title": "cpio",
+    "english_description": "Copies files to and from archives.",
+    "tamil_description": "கோப்புகளை archive-க்குள் நகலெடுக்க பயன்படும்.",
+    "example": "$ find . -name '*.txt' | cpio -ov > backup.cpio"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "delpart",
+    "english_description": "Deletes a partition from a disk.",
+    "tamil_description": "ஒரு hard disk பகிர்வை (partition) நீக்க பயன்படும்.",
+    "example": "$ sudo delpart /dev/sda 3"
+}

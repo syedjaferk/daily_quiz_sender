@@ -1,0 +1,6 @@
+{
+    "title": "hdparm",
+    "english_description": "Configures and queries SATA/IDE hard drive parameters.",
+    "tamil_description": "SATA/IDE hard disk-இன் அமைப்புகளை பார்க்க மற்றும் மாற்ற பயன்படும்.",
+    "example": "$ sudo hdparm -I /dev/sda"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "passwd",
+    "english_description": "Changes the user password.",
+    "tamil_description": "பயனர் கடவுச்சொல்லை மாற்ற பயன்படும்.",
+    "example": "$ passwd"
+}

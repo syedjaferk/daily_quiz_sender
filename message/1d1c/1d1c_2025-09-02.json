@@ -1,0 +1,6 @@
+{
+    "title": "comm",
+    "english_description": "Compares two sorted files line by line.",
+    "tamil_description": "இரண்டு வரிசைப்படுத்தப்பட்ட கோப்புகளை வரி மட்டுமே ஒப்பிட உதவும்.",
+    "example": "$ comm file1.txt file2.txt"
+}

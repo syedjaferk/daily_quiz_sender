@@ -1,0 +1,6 @@
+{
+    "title": "unalias",
+    "english_description": "unalias is used to remove an existing alias command.",
+    "tamil_description": "unalias கட்டளை வழியாக முன்பே உருவாக்கிய குறுக்கு வழிகளை நீக்கலாம்.",
+    "example": "$ unalias ll"
+}

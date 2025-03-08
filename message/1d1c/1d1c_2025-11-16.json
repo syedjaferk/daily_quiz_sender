@@ -1,0 +1,6 @@
+{
+    "title": "gpg",
+    "english_description": "Encrypts and decrypts files using GnuPG.",
+    "tamil_description": "GnuPG மூலம் கோப்புகளை மறையாக்கம் (encryption) மற்றும் மறையகோடு (decryption) செய்ய பயன்படும்.",
+    "example": "$ gpg -c file.txt"
+}

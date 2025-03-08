@@ -1,0 +1,6 @@
+{
+    "title": "userdel",
+    "english_description": "Deletes a user account.",
+    "tamil_description": "ஒரு பயனர் கணக்கை நீக்க பயன்படும்.",
+    "example": "$ sudo userdel username"
+}

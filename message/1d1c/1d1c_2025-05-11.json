@@ -1,0 +1,6 @@
+{
+    "title": "localectl",
+    "english_description": "Manages system locale settings.",
+    "tamil_description": "கணினியின் மொழி மற்றும் locale அமைப்புகளை நிர்வகிக்க பயன்படும்.",
+    "example": "$ localectl set-locale LANG=en_US.UTF-8"
+}

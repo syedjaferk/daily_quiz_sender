@@ -1,0 +1,6 @@
+{
+    "title": "cut",
+    "english_description": "Removes sections from each line of a file.",
+    "tamil_description": "ஒரு கோப்பில் இருந்து குறிப்பிட்ட பகுதிகளை வெட்ட பயன்படும்.",
+    "example": "$ cut -d':' -f1 /etc/passwd"
+}

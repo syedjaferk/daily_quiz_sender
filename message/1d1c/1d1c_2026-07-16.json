@@ -1,0 +1,6 @@
+{
+    "title": "touch",
+    "english_description": "Creates an empty file or updates a file’s timestamp.",
+    "tamil_description": "புதிய காலியான கோப்புகளை உருவாக்க அல்லது கோப்பு நேரத்தை (timestamp) புதுப்பிக்க பயன்படும்.",
+    "example": "$ touch newfile.txt"
+}

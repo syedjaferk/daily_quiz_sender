@@ -1,0 +1,6 @@
+{
+    "title": "head",
+    "english_description": "Displays the first 10 lines of a file by default.",
+    "tamil_description": "ஒரு கோப்பின் முதல் 10 வரிகளை காண்பிக்க head கட்டளை பயன்படுத்தலாம்.",
+    "example": "$ head file.txt"
+}

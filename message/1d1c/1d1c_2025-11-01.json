@@ -1,0 +1,6 @@
+{
+    "title": "fmt",
+    "english_description": "Formats text to fit within a specific width.",
+    "tamil_description": "உரை கோப்புகளை குறிப்பிட்ட அகலத்தில் வடிவமைக்க உதவும்.",
+    "example": "$ fmt -w 50 file.txt"
+}

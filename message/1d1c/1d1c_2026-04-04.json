@@ -1,0 +1,6 @@
+{
+    "title": "znew",
+    "english_description": "Recompresses .Z files to .gz format.",
+    "tamil_description": "Old .Z கோப்புகளை புதிய .gz வடிவிற்கு மாற்ற பயன்படும்.",
+    "example": "$ znew oldfile.Z"
+}

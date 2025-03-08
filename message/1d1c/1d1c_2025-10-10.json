@@ -1,0 +1,6 @@
+{
+    "title": "ebook-polish",
+    "english_description": "Cleans and optimizes an eBook file.",
+    "tamil_description": "ஒரு eBook கோப்பின் தரத்தை மேம்படுத்த பயன்படும்.",
+    "example": "$ ebook-polish book.epub --cover newcover.jpg"
+}

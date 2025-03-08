@@ -1,0 +1,6 @@
+{
+    "title": "nc",
+    "english_description": "A networking utility for reading and writing data across networks.",
+    "tamil_description": "நெட்வொர்க் வழியாக தகவல்களை அனுப்ப மற்றும் பெற பயன்படும்.",
+    "example": "$ nc -l 8080"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "paste",
+    "english_description": "Merges lines of files.",
+    "tamil_description": "கோப்புகளின் வரிகளை ஒன்றிணைக்க பயன்படும்.",
+    "example": "$ paste file1.txt file2.txt"
+}

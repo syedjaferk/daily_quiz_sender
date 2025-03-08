@@ -1,0 +1,6 @@
+{
+    "title": "trap",
+    "english_description": "Executes a command when a signal is received.",
+    "tamil_description": "ஒரு signal கிடைக்கும் போது ஒரு கட்டளையை இயக்க பயன்படும்.",
+    "example": "$ trap 'echo Exiting...' EXIT"
+}

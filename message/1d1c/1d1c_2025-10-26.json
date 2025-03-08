@@ -1,0 +1,6 @@
+{
+    "title": "file",
+    "english_description": "Determines the type of a file.",
+    "tamil_description": "கோப்பின் வகையை கண்டறிய பயன்படும்.",
+    "example": "$ file example.txt"
+}

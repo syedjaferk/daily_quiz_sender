@@ -1,0 +1,6 @@
+{
+    "title": "yes",
+    "english_description": "Repeatedly outputs a string until stopped.",
+    "tamil_description": "ஒரு குறிப்பிட்ட சொல்லை இடைமறியாமல் திருப்பி திருப்பி எழுத உதவும்.",
+    "example": "$ yes 'I agree'"
+}

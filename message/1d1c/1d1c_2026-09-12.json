@@ -1,0 +1,6 @@
+{
+    "title": "timedatectl",
+    "english_description": "Manages system date and time settings.",
+    "tamil_description": "கணினியின் நேரம் மற்றும் தேதியை நிர்வகிக்க பயன்படும்.",
+    "example": "$ timedatectl set-time '2025-03-10 12:30:00'"
+}

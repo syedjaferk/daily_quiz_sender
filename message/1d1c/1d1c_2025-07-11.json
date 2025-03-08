@@ -1,0 +1,6 @@
+{
+    "title": "useradd",
+    "english_description": "useradd is used to create a new user in Linux with basic options.",
+    "tamil_description": "useradd கட்டளையை பயன்படுத்தி புதிய பயனரை உருவாக்கலாம்.",
+    "example": "$ sudo useradd -m -d /home/newuser newuser"
+}

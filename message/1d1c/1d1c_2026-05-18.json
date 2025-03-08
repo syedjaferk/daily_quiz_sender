@@ -1,0 +1,6 @@
+{
+    "title": "lsattr",
+    "english_description": "Displays file attributes on a Linux filesystem.",
+    "tamil_description": "Linux கோப்பு அமைப்பில் உள்ள கோப்பு பண்புகளை (attributes) காண்பிக்க பயன்படும்.",
+    "example": "$ lsattr file.txt"
+}

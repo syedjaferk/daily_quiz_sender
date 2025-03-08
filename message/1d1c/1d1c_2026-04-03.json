@@ -1,0 +1,6 @@
+{
+    "title": "zless",
+    "english_description": "Views compressed .gz files using less.",
+    "tamil_description": "சுருக்கப்பட்ட .gz கோப்புகளை less கட்டளையைப் பயன்படுத்தி காண்பிக்க உதவும்.",
+    "example": "$ zless file.gz"
+}

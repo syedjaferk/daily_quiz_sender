@@ -1,0 +1,6 @@
+{
+    "title": "chmem",
+    "english_description": "Configures memory online or offline in Linux.",
+    "tamil_description": "மெமரியை இயக்கவோ (enable) அல்லது முடக்கவோ (disable) செய்ய பயன்படும்.",
+    "example": "$ sudo chmem --enable 1024"
+}

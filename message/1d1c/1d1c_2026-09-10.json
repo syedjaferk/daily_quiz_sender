@@ -1,0 +1,6 @@
+{
+    "title": "systemctl",
+    "english_description": "Controls the systemd service manager.",
+    "tamil_description": "systemd சேவைகளை (services) நிர்வகிக்க பயன்படும்.",
+    "example": "$ sudo systemctl restart apache2"
+}

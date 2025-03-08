@@ -1,0 +1,6 @@
+{
+    "title": "nmap",
+    "english_description": "Scans networks and identifies connected devices.",
+    "tamil_description": "நெட்வொர்க்கில் உள்ள சாதனங்களை (devices) கண்டறிய மற்றும் security scanning செய்ய பயன்படும்.",
+    "example": "$ nmap -sS 192.168.1.1/24"
+}

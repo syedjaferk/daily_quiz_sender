@@ -1,0 +1,6 @@
+{
+    "title": "umount",
+    "english_description": "Unmounts a filesystem or device.",
+    "tamil_description": "மவுண்ட் செய்யப்பட்ட (mounted) கோப்பு அமைப்பை அல்லது சாதனத்தை அகற்ற பயன்படும்.",
+    "example": "$ sudo umount /mnt"
+}

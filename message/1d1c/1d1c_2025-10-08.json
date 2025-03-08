@@ -1,0 +1,6 @@
+{
+    "title": "ebook-convert",
+    "english_description": "Converts eBook files between different formats.",
+    "tamil_description": "eBook கோப்புகளை ஒரு கோப்பு வகையிலிருந்து மற்றொரு வகைக்கு மாற்ற பயன்படும்.",
+    "example": "$ ebook-convert book.epub book.pdf"
+}

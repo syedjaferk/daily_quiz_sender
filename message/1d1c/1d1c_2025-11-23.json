@@ -1,0 +1,6 @@
+{
+    "title": "gawk",
+    "english_description": "Pattern scanning and processing language.",
+    "tamil_description": "மாதிரி தேடல் (pattern scanning) மற்றும் நிரலாக்கம் செய்ய உதவும்.",
+    "example": "$ gawk '{print $1}' file.txt"
+}

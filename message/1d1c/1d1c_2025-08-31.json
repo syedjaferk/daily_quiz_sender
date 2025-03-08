@@ -1,0 +1,6 @@
+{
+    "title": "colrm",
+    "english_description": "Removes specified columns from a file.",
+    "tamil_description": "ஒரு கோப்பிலிருந்து குறிப்பிட்ட நிரல்களை நீக்க பயன்படும்.",
+    "example": "$ colrm 3 5 < file.txt"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "compgen",
+    "english_description": "Lists all available commands in the system.",
+    "tamil_description": "கணினியில் இயங்கக்கூடிய அனைத்து கட்டளைகளையும் காட்டும்.",
+    "example": "$ compgen -c"
+}

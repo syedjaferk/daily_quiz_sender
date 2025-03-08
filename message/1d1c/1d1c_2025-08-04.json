@@ -1,0 +1,6 @@
+{
+    "title": "bzdiff",
+    "english_description": "Compares two bzip2-compressed files.",
+    "tamil_description": "இரண்டு bzip2 சுருக்கப்பட்ட கோப்புகளை ஒப்பிடும்.",
+    "example": "$ bzdiff file1.bz2 file2.bz2"
+}

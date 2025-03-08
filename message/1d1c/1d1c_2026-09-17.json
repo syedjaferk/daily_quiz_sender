@@ -1,0 +1,6 @@
+{
+    "title": "nm-connection-editor",
+    "english_description": "Graphical tool to configure network connections.",
+    "tamil_description": "நெட்வொர்க் இணைப்புகளை கட்டமைக்க ஒரு GUI கருவி.",
+    "example": "$ nm-connection-editor"
+}

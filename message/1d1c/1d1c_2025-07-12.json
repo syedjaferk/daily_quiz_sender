@@ -1,0 +1,6 @@
+{
+    "title": "groupadd",
+    "english_description": "groupadd is used to create new user groups.",
+    "tamil_description": "groupadd கட்டளை புதிய பயனர் குழுக்களை உருவாக்க உதவுகிறது.",
+    "example": "$ sudo groupadd developers"
+}

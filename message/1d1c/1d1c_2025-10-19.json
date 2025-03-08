@@ -1,0 +1,6 @@
+{
+    "title": "fakeroot",
+    "english_description": "Runs a command as if it were run by the root user.",
+    "tamil_description": "மூல (root) பயனராக கட்டளைகளை இயக்கும் முறையை உருவாக்க உதவும்.",
+    "example": "$ fakeroot tar -cvf archive.tar file.txt"
+}

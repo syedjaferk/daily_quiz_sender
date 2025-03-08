@@ -1,0 +1,6 @@
+{
+    "title": "semanage",
+    "english_description": "Manages SELinux policy settings.",
+    "tamil_description": "SELinux கொள்கை அமைப்புகளை நிர்வகிக்க பயன்படும்.",
+    "example": "$ sudo semanage fcontext -a -t httpd_sys_content_t '/var/www/html(/.*)?'"
+}

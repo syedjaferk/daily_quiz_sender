@@ -1,0 +1,6 @@
+{
+    "title": "dpkg",
+    "english_description": "Package manager for Debian-based systems.",
+    "tamil_description": "Debian-அடிப்படையிலான கணினிகளுக்கான தொகுப்பு மேலாளர்.",
+    "example": "$ sudo dpkg -i package.deb"
+}

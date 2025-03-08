@@ -1,0 +1,6 @@
+{
+    "title": "baobab",
+    "english_description": "Baobab is a graphical tool to analyze disk usage.",
+    "tamil_description": "Baobab என்பது ஒரு கிராஃபிக்ஸ் கருவியாகவும், வட்டினில் உள்ள இடத்தை பகுப்பாய்வு செய்ய பயன்படுகிறது.",
+    "example": "$ baobab"
+}

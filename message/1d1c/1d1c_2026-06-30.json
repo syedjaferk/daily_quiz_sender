@@ -1,0 +1,6 @@
+{
+    "title": "stat",
+    "english_description": "Displays detailed information about a file.",
+    "tamil_description": "ஒரு கோப்பின் விரிவான தகவல்களை காண்பிக்க பயன்படும்.",
+    "example": "$ stat file.txt"
+}

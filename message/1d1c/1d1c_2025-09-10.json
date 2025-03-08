@@ -1,0 +1,6 @@
+{
+    "title": "csplit",
+    "english_description": "Splits a file into sections based on line content.",
+    "tamil_description": "ஒரு கோப்பை குறிப்பிட்ட வரிகளின்படி பிரிக்க உதவும்.",
+    "example": "$ csplit file.txt 10"
+}

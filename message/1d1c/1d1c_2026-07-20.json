@@ -1,0 +1,6 @@
+{
+    "title": "tty",
+    "english_description": "Displays the terminal device name.",
+    "tamil_description": "தற்போதைய terminal சாதனத்தின் (device) பெயரை காண்பிக்க பயன்படும்.",
+    "example": "$ tty"
+}

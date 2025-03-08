@@ -1,0 +1,6 @@
+{
+    "title": "dmidecode",
+    "english_description": "Displays hardware information from the system's DMI table.",
+    "tamil_description": "கணினியின் DMI (BIOS) தகவல்களை பார்க்க பயன்படும்.",
+    "example": "$ sudo dmidecode -t system"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "aa-enabled",
+    "english_description": "Checks if AppArmor is enabled on the system.",
+    "tamil_description": "கணினியில் AppArmor இயங்குகிறதா என்று சரிபார்க்கும் கட்டளை.",
+    "example": "$ aa-enabled"
+}

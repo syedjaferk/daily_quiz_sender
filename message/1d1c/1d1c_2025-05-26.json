@@ -1,0 +1,6 @@
+{
+    "title": "tcpdump",
+    "english_description": "Captures and analyzes network packets.",
+    "tamil_description": "நெட்வொர்க் பேக்கெட்டுகளை (packets) பிடித்து பகுப்பாய்வு செய்ய பயன்படும்.",
+    "example": "$ sudo tcpdump -i eth0"
+}

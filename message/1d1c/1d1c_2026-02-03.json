@@ -1,0 +1,6 @@
+{
+    "title": "ram",
+    "english_description": "Displays the available and used RAM on the system.",
+    "tamil_description": "கணினியில் உள்ள RAM பயன்பாடு மற்றும் அளவை காட்ட பயன்படும்.",
+    "example": "$ free -m"
+}

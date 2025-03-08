@@ -1,0 +1,6 @@
+{
+    "title": "mv",
+    "english_description": "Moves or renames files and directories.",
+    "tamil_description": "கோப்புகளை அல்லது அடைவுகளை நகர்த்த (move) அல்லது பெயர் மாற்ற (rename) பயன்படும்.",
+    "example": "$ mv oldname.txt newname.txt"
+}

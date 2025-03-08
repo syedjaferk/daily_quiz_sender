@@ -1,0 +1,6 @@
+{
+    "title": "hwinfo",
+    "english_description": "Displays detailed information about hardware components.",
+    "tamil_description": "கணினியில் உள்ள hardware தகவல்களை காண்பிக்க பயன்படும்.",
+    "example": "$ hwinfo --short"
+}

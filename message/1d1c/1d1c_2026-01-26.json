@@ -1,0 +1,6 @@
+{
+    "title": "ping",
+    "english_description": "Sends ICMP echo requests to test network connectivity.",
+    "tamil_description": "நெட்வொர்க் இணைப்பை சோதிக்க பயன்படும்.",
+    "example": "$ ping -c 4 google.com"
+}

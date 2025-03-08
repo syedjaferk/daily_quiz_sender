@@ -1,0 +1,6 @@
+{
+    "title": "getconf",
+    "english_description": "Displays system configuration variables.",
+    "tamil_description": "கணினியின் உள்ளமைவு (configuration) மாறிகளை காண்பிக்க பயன்படும்.",
+    "example": "$ getconf LONG_BIT"
+}

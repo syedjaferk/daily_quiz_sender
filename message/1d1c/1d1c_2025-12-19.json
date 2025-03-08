@@ -1,0 +1,6 @@
+{
+    "title": "last",
+    "english_description": "Shows the login history of users.",
+    "tamil_description": "கணினியில் பயனர்கள் முன்னர் எப்போது உள்நுழைந்துள்ளனர் என்பதை காண்பிக்க பயன்படும்.",
+    "example": "$ last"
+}

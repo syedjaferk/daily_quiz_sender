@@ -1,0 +1,6 @@
+{
+    "title": "ar",
+    "english_description": "ar is used to create, modify, and extract files from archives.",
+    "tamil_description": "ar கட்டளை ஒரு தொகுப்பில் இருந்து கோப்புகளை உருவாக்க, மாற்ற, மற்றும் பிரித்தெடுக்க உதவுகிறது.",
+    "example": "$ ar -r archive.a file1.txt file2.txt"
+}
