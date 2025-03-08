@@ -9,7 +9,7 @@ parser = argparse.ArgumentParser(description="Quiz")
 parser.add_argument('--category', type=str, help='Category', required=True)
 parser.add_argument('--telegram_url', type=str, help='Telegram Bot Url With Token', required=True)
 parser.add_argument('--chat_id', type=str, help='Chat ID', required=True)
-parser.add_argument('--message_thread_id', type=int, help="Message Thread ID", required=True)
+parser.add_argument('--message_thread_id', type=str, help="Message Thread ID", required=True)
 
 args = parser.parse_args()
 
@@ -42,7 +42,7 @@ message_val = {
     "chat_id": args.chat_id,
     "text": message,
     "parse_mode": "Markdown",
-    "message_thread_id": args.message_thread_id
+    "message_thread_id": int(args.message_thread_id)
 }
 
 print(message_val)
