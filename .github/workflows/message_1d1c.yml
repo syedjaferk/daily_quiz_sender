@@ -2,7 +2,7 @@ name: 1d1c Command of the Day
 
 on:
   schedule:
-    - cron: "0 10 * * *"
+    - cron: "30 0 * * *"
 
   workflow_dispatch:
 
