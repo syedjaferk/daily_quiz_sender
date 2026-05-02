@@ -1,0 +1,1 @@
+{"question": "Which command displays the list of logged-in users?", "options": ["logname", "w", "who", "users"], "correct_option_id": 2, "explanation": "The 'who' command shows who is logged into the system."}

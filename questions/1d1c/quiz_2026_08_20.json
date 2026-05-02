@@ -1,0 +1,1 @@
+{"question": "Which command is used to transfer data using different protocols like HTTP and FTP?", "options": ["wget", "scp", "curl", "rsync"], "correct_option_id": 2, "explanation": "The 'curl' command transfers data using various protocols like HTTP, FTP, and more."}

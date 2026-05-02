@@ -1,0 +1,1 @@
+{"question": "What does the 'wc' command do?", "options": ["Lists files", "Counts words, lines, and characters in a file", "Displays disk usage", "Searches files"], "correct_option_id": 1, "explanation": "The 'wc' command counts lines, words, and characters in a file."}

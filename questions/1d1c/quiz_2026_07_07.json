@@ -1,0 +1,1 @@
+{"question": "Which command is used to adjust the priority of a running process?", "options": ["renice", "nice", "top", "htop"], "correct_option_id": 0, "explanation": "The 'renice' command changes the priority of a running process."}

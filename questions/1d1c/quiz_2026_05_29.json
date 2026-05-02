@@ -1,0 +1,1 @@
+{"question": "How do you export a variable so it is available to child processes?", "options": ["export", "set", "declare", "env"], "correct_option_id": 0, "explanation": "The 'export' command is used to pass variables to child processes."}

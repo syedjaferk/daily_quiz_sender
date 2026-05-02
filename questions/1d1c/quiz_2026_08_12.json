@@ -1,0 +1,1 @@
+{"question": "Which command is used to download files from the internet?", "options": ["wget", "curl", "scp", "rsync"], "correct_option_id": 0, "explanation": "The 'wget' command downloads files from the internet."}

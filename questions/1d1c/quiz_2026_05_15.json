@@ -1,0 +1,1 @@
+{"question": "How can you display all system information using 'uname'?", "options": ["uname -a", "uname -s", "uname -v", "uname -r"], "correct_option_id": 0, "explanation": "The 'uname -a' command displays all available system information."}

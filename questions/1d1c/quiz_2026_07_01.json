@@ -1,0 +1,1 @@
+{"question": "Which command displays processes in a tree format?", "options": ["top", "ps", "pstree", "htop"], "correct_option_id": 2, "explanation": "The 'pstree' command displays processes in a hierarchical tree format."}

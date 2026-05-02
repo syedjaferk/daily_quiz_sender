@@ -1,0 +1,1 @@
+{"question": "How do you remove duplicate lines from a file?", "options": ["uniq", "cut", "sort", "grep"], "correct_option_id": 0, "explanation": "The 'uniq' command filters out adjacent duplicate lines in a file."}

@@ -1,0 +1,1 @@
+{"question": "Which command determines the file type?", "options": ["file", "ls", "stat", "wc"], "correct_option_id": 0, "explanation": "The 'file' command determines the type of a given file."}

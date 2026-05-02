@@ -1,0 +1,1 @@
+{"question": "Which command is used to check the current runlevel of the system?", "options": ["init", "who", "runlevel", "uptime"], "correct_option_id": 2, "explanation": "The 'runlevel' command prints the previous and current runlevel."}

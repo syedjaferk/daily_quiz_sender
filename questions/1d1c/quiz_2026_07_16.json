@@ -1,0 +1,1 @@
+{"question": "Which command is used to change file ownership?", "options": ["chmod", "usermod", "chown", "chgrp"], "correct_option_id": 2, "explanation": "The 'chown' command changes file ownership."}

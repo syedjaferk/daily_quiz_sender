@@ -1,0 +1,1 @@
+{"question": "Which command removes an alias from the shell?", "options": ["unalias", "remove", "delete", "unset"], "correct_option_id": 0, "explanation": "The 'unalias' command removes an alias from the shell."}

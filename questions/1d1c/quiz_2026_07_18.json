@@ -1,0 +1,1 @@
+{"question": "Which command is used to set default permissions for newly created files?", "options": ["chmod", "setfacl", "umask", "chown"], "correct_option_id": 2, "explanation": "The 'umask' command sets default permissions for new files."}

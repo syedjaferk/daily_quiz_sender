@@ -1,0 +1,1 @@
+{"question": "Which command is used to start a process with a modified scheduling priority?", "options": ["nice", "renice", "ps", "jobs"], "correct_option_id": 0, "explanation": "The 'nice' command is used to start a process with a specified priority."}

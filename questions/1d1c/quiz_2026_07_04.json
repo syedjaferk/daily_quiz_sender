@@ -1,0 +1,1 @@
+{"question": "Which command is used to terminate a process by PID?", "options": ["kill", "terminate", "ps", "shutdown"], "correct_option_id": 0, "explanation": "The 'kill' command is used to terminate a process by PID."}

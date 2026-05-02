@@ -1,0 +1,1 @@
+{"question": "How do you change the current working directory?", "options": ["cd", "dir", "chdir", "move"], "correct_option_id": 0, "explanation": "The 'cd' command is used to change directories."}

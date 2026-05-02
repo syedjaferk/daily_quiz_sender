@@ -1,0 +1,1 @@
+{"question": "Which command displays system memory usage?", "options": ["top", "df", "free", "vmstat"], "correct_option_id": 2, "explanation": "The 'free' command displays memory usage details."}

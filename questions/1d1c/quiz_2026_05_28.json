@@ -1,0 +1,1 @@
+{"question": "Which command is used to print environment variables?", "options": ["set", "printenv", "export", "env"], "correct_option_id": 3, "explanation": "The 'env' command displays all environment variables."}

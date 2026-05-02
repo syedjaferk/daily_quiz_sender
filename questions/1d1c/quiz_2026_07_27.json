@@ -1,0 +1,1 @@
+{"question": "Which command is used to compress files into a ZIP archive?", "options": ["gzip", "zip", "tar", "bzip2"], "correct_option_id": 1, "explanation": "The 'zip' command is used to create ZIP archives."}

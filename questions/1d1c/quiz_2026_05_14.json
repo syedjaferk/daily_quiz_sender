@@ -1,0 +1,1 @@
+{"question": "What is the purpose of the 'uname' command?", "options": ["Modify system settings", "Display system information", "List users", "Change username"], "correct_option_id": 1, "explanation": "The 'uname' command prints system information such as OS name, kernel version, and more."}

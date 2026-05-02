@@ -1,0 +1,1 @@
+{"question": "Which command is used to join two files based on a common field?", "options": ["merge", "join", "paste", "awk"], "correct_option_id": 1, "explanation": "The 'join' command combines lines of two files based on a common field."}

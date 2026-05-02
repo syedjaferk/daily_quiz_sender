@@ -1,0 +1,1 @@
+{"question": "Which command is used to manage group passwords?", "options": ["passwd", "usermod", "gpasswd", "groupmod"], "correct_option_id": 2, "explanation": "The 'gpasswd' command is used to administer group passwords."}

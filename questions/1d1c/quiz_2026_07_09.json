@@ -1,0 +1,1 @@
+{"question": "Which command is used to create a new user in Linux?", "options": ["useradd", "adduser", "passwd", "usermod"], "correct_option_id": 0, "explanation": "The 'useradd' command is used to create a new user."}

@@ -1,0 +1,1 @@
+{"question": "How do you remove a directory and its contents recursively?", "options": ["rm -r", "rm -d", "rmdir", "rm -f"], "correct_option_id": 0, "explanation": "The 'rm -r' command removes a directory and its contents recursively."}

@@ -1,0 +1,1 @@
+{"question": "Which command is used for text replacement in a file?", "options": ["sed", "awk", "tr", "cut"], "correct_option_id": 0, "explanation": "The 'sed' command is used for stream editing, including text replacement."}

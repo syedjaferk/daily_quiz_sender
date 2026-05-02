@@ -1,0 +1,1 @@
+{"question": "Which command is used to synchronize files between systems?", "options": ["scp", "ftp", "rsync", "wget"], "correct_option_id": 2, "explanation": "The 'rsync' command efficiently synchronizes files between systems."}

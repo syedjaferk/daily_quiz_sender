@@ -1,0 +1,1 @@
+{"question": "Which command is used to split large files into smaller files?", "options": ["cut", "tac", "split", "uniq"], "correct_option_id": 2, "explanation": "The 'split' command is used to divide a large file into smaller chunks."}

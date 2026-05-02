@@ -1,0 +1,1 @@
+{"question": "Which command is used to sort file contents?", "options": ["uniq", "grep", "sort", "cut"], "correct_option_id": 2, "explanation": "The 'sort' command arranges file contents in a particular order."}

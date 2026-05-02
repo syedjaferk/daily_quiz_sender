@@ -1,0 +1,1 @@
+{"question": "Which command is used to queue, examine, or delete jobs scheduled with 'at'?", "options": ["crontab", "atrm", "atq", "batch"], "correct_option_id": 2, "explanation": "The 'atq' command lists queued jobs scheduled with 'at'."}

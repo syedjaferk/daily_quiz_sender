@@ -1,0 +1,1 @@
+{"question": "Which command is used to install software packages in Debian-based systems?", "options": ["yum", "pacman", "apt", "dnf"], "correct_option_id": 2, "explanation": "The 'apt' command is used to install packages in Debian-based distributions."}

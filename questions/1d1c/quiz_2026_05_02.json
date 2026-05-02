@@ -1,0 +1,1 @@
+{"question": "How can you display the system date in GMT/UTC time zone?", "options": ["date --utc", "date -g", "date -u", "date --gmt"], "correct_option_id": 2, "explanation": "The 'date -u' command displays the system date in GMT/UTC time zone."}

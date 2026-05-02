@@ -1,0 +1,1 @@
+{"question": "Which command is used to limit system resource usage for users?", "options": ["limits.conf", "nice", "quota", "ulimit"], "correct_option_id": 3, "explanation": "The 'ulimit' command sets resource usage limits."}

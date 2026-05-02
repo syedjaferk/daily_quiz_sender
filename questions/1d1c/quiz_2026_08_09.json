@@ -1,0 +1,1 @@
+{"question": "Which command adds a user without shell access?", "options": ["nologin", "su", "usermod", "disable"], "correct_option_id": 0, "explanation": "The 'nologin' command prevents a user from accessing a shell."}

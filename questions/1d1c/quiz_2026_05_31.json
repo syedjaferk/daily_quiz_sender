@@ -1,0 +1,1 @@
+{"question": "Which command allows you to read a file one page at a time?", "options": ["less", "cat", "more", "head"], "correct_option_id": 0, "explanation": "The 'less' command allows reading files one page at a time."}

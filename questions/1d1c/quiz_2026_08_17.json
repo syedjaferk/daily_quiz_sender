@@ -1,0 +1,1 @@
+{"question": "Which command is used to add a PPA repository in Ubuntu?", "options": ["apt-add", "add-apt-repository", "ppa-install", "repo-add"], "correct_option_id": 1, "explanation": "The 'add-apt-repository' command adds a PPA repository in Ubuntu."}

@@ -1,0 +1,1 @@
+{"question": "Which command is used to execute a shell script?", "options": ["sh", "exec", "run", "bash"], "correct_option_id": 0, "explanation": "The 'sh' command executes shell scripts."}

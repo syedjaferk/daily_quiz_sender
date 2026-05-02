@@ -1,0 +1,1 @@
+{"question": "Which command is used to execute commands from standard input?", "options": ["xargs", "tee", "cat", "awk"], "correct_option_id": 0, "explanation": "The 'xargs' command is used to build and execute command lines from standard input."}

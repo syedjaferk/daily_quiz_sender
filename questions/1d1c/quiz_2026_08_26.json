@@ -1,0 +1,1 @@
+{"question": "Which command creates a shortcut or alias for another command?", "options": ["source", "alias", "ln", "symlink"], "correct_option_id": 1, "explanation": "The 'alias' command creates a shortcut for another command."}

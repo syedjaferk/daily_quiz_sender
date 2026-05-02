@@ -1,0 +1,1 @@
+{"question": "Which interactive process viewer provides an enhanced user interface over 'top'?", "options": ["ps", "htop", "top", "jobs"], "correct_option_id": 1, "explanation": "The 'htop' command provides an interactive process viewer with an enhanced user interface."}

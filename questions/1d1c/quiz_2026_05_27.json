@@ -1,0 +1,1 @@
+{"question": "Which command is used to search for files in a directory hierarchy?", "options": ["grep", "find", "locate", "whereis"], "correct_option_id": 1, "explanation": "The 'find' command is used to search for files in a directory hierarchy."}

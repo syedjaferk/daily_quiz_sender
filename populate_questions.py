@@ -1,7 +1,7 @@
 import json
 from datetime import datetime, timedelta
 
-START_DATE = "2025-03-02"
+START_DATE = "2026-05-01"
 date_format = "%Y-%m-%d"
 category = "1d1c"
 DEST_PATH = f"questions/{category}/"

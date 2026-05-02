@@ -1,0 +1,1 @@
+{"question": "Which command is used to display the system hostname?", "options": ["host", "hostname", "uname -n", "systemname"], "correct_option_id": 1, "explanation": "The 'hostname' command displays the system's hostname."}
